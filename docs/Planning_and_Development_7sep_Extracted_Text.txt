@@ -1,0 +1,3799 @@
+MINISTRY OF NATIONAL FOOD SECURITY AND RESEARCH 
+PAK SECRATRIAT, ISLAMABAD (https://mnfsr.gov.pk/) 
+PROJECT PLANNING AND DEVELOPMENT UNIT (PPDU) 
+                               PHONE # 051-9204650 
+
+REQUEST FOR PROPOSALS 
+
+HIRING OF SERVICES FOR DIGITAL 
+TRANSFORMATION OF MNFSR 
+
+The  Ministry  of  National  Food  Security  and  Research,  Government  of  Pakistan  invites  Request  for 
+Proposal (“RFP”) under the project “Project Planning and Development Unit” for engagement of top-
+tier national firm capable of Designing & Development, Testing, Deployment and Commissioning of: 
+
+i.  Pakistan Agri Trade Portal (PATP) 
+
+a.  Pakistan Agri Trade Supply Chain Dashboards. 
+
+ii.  Development & Deployment of Knowledge Management System (KMS) 
+iii.  Development of Ministry’s Internal Business Operation Systems 
+
+a.  Vehicle Management System 
+b.  Inventory Management System 
+c.  PSDP Management System 
+d.  International Collaboration (IC) Management System 
+
+2. 
+Single Stage – Two Envelopes (Quality and Cost Based) procedure will be adopted under Rule 
+36  (b)  of  PPRA  Rules-2004.  The  sealed  bids,  complete  in  all  respects,  should  be  submitted  through 
+EPADS, and the original DD/ P.O. must be substantiated to MNFSR via registered courier. Sealed bids 
+are invited from Firms registered with Sales Tax / Income Tax Departments / relevant authorities. 
+
+The closing time for receiving the bids is 22nd September 2025, till 02:00 PM; which shall be 
+3. 
+opened publicly on the same date at 02:30 PM at MNFSR, Pak Secretariat, Block B, 3rd floor, Room 
+No. 330, PPDU Support Unit. 
+
+4. 
+The tender documents along with detailed terms and conditions can be obtained (free of cost) 
+from the office of the PPDU Pak Secretariat, 3rd Floor, Islamabad, during office hours and available on 
+PPRA  web  portal  (https://ppra.gov.pk),  PPRA’s  EPADS  (https://eprocure.gov.pk)  and  the  official 
+website of MNFSR (https://mnfsr.gov.pk). No bid shall be entertained if not applied through EPADS. 
+
+5. 
+
+All terms and conditions contained in the RFP / Bidding Documents shall apply. 
+
+MNFSR reserves the right to accept or reject any or all bids/proposals in accordance with PPRA 
+
+6. 
+Rules-2004.  
+
+Project Manager-PPDU 
+Ministry of National Food Security Islamabad 
+051-9204650 
+
+Page 1 of 49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REQUEST FOR PROPOSALS  
+
+HIRING OF SERVICES FOR DIGITAL TRANSFORMATION OF 
+MNFSR 
+
+MINISTRY OF NATIONAL FOOD SECURITY AND RESEARCH 
+PROJECT PLANNING AND DVELOPMENT UNIT (PPDU) 
+GOVERNMENT OF PAKISTAN  
+
+  SEPTEMBER 2025 
+
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+Contents  
+
+Part I. INSTRUCTIONS TO BIDDERS ......................................................................................................... 4 
+
+Part II. SCOPE OF WORK ............................................................................................................................. 8 
+
+2.1 
+
+Introduction ..................................................................................................................................... 8 
+
+2.2  Objective ......................................................................................................................................... 8 
+
+2.3 
+
+Conceptual Framework ................................................................................................................... 9 
+
+2.4  
+
+Specific Terms of References ........................................................................................................ 10 
+
+2.5 
+
+Timelines & Payment Schedule .................................................................................................... 14 
+
+2.6   Key Personals Education /Experience ........................................................................................... 15 
+
+2.7   Evaluation Criteria ........................................................................................................................ 17 
+
+2.8       Scoring .......................................................................................................................................... 18 
+
+Part III. TECHNICAL PROPOSAL SUBMISSION FORM ........................................................................ 19 
+
+Part IV. FINANCIAL PROPOSAL SUBMISSION FORMS ....................................................................... 25 
+
+Part V. FORM OF AGREEMENT FOR SERVICES .................................................................................... 28 
+
+Part VI. INTEGRITY PACT ......................................................................................................................... 49 
+
+Page 3 of 49 
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Part I. INSTRUCTIONS TO BIDDERS  
+
+1. INTRODUCTION AND PURPOSE OF THE RFP  
+
+(a)  This  Request  for  Proposals  (RFP)  is  being  issued  by  the  MNFSR,  Government  of  Pakistan  (the 
+“Client”), under the project “Project Planning and Development Unit” for engagement of top-tier 
+national  firms  capable  of  establishing  Pakistan  Agri  Trade  Portal,  Supply  Chain  Dashboard, 
+Knowledge Management System (KMS) and Internal Business Operation Systems that is in line 
+with MNFSR’s developmental goals.  
+
+(b)  The primary purpose of this RFP is to select and contract a firm that will offer expert support to 
+MNFSR (the “Client”) for purposes of operationalization, Development, Testing, Deployment, and 
+Commissioning  of  the  Pakistan  Agri  Trade  Portal,  Supply  Chain  Dashboards,  Knowledge 
+Management System (KMS) and Internal Business Operation Systems. 
+
+(c)  Pursuant to the PPRA Approved Framework, the tender notice for this RFP has been published on 
+
+the Client’s website and PPRA website.  
+
+(d)  The Client reserves the right to cancel the procurement process under this RFP at any time (or to re-
+tender with amended terms and conditions, including with respect to the category of shortlisted firms) 
+before  the  execution  of  the  Agreement  for  Services,  at  which  stage  the  provisions  of  the  said 
+agreement will be applicable with respect to the term and termination of the arrangement.   
+
+2. SCOPE OF WORK  
+
+(a)  This scope of work to be performed by the Firm selected under this RFP is set forth in Part II of this 
+
+RFP.  
+
+(b)  Work  performed  under  this  engagement  will  be reviewed  by  the  Client.  Firm  will  be  required  to 
+
+provide regular updates to the Client through progress reports.   
+
+(c)  All  materials  and  documents  produced  during  this  engagement  shall  be  the  property  of  the 
+
+Government of Pakistan and must be treated as confidential unless stated otherwise.   
+
+3. SUBMISSION REQUIREMENTS   
+
+i.  The tender should be filled in carefully (preferably typed). No correction/alteration is allowed. Each 
+
+page must be signed and stamped. Incomplete forms will not be accepted.  
+
+ii.  Single  Stage  -  Two  Envelopes  (Quality  and  Cost  Based)  Bidding Procedure  specified  in  the  Public 
+Procurement Rules,2004 shall be followed for receiving and processing the bids. Bid Security not less 
+than  Rs.  240,000/-  as  mentioned  in  Tender  Documents  in  the  shape  of  Pay  Order/Bank  Draft  is 
+required in the name of the Project Manager PPDU, MNFSR Pak Secretariat, Islamabad. Neither 
+personal cheques nor the bids received without earnest money will be accepted.  
+
+iii.  The bid validity period is 60 days from the date of publication. 
+iv.  In  case,  the  tender  is  accepted  by  the  competent  authority,  the  earnest  money  will  be  retained  till 
+completion of the agreement period. However, the earnest money of the unsuccessful bidders will be 
+returned on receipt of a written request.  
+
+Page 4 of 49 
+
+  
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+v.  The offered rates should include GST/Government taxes, delivery, installation and necessary software 
+
+charges etc. 
+
+vi.  National Tax No., GST Registration Number and Vendor Number and must be indicated by each bidder 
+
+on the letterhead. 
+
+vii. Any lapse in fulfilling requirements or any other stipulated condition (s) in the tender shall render the 
+
+bid liable to rejection. 
+
+viii. 
+
+The contract will be awarded to the highest evaluated bidder as the Most Advantageous Bid 
+after approval by the Procurement Committee / Competent Authority, whose decision will be treated 
+as final. 
+
+ix.  The result of the bid evaluation under Rule 35 of PP Rules, 2004 will be announced fifteen days prior 
+to  the  award  of  contract  to  the  successful  bidder.  In  case  of  any  complaint  of  bidder,  a  Redressal 
+Grievance Committee already constituted in the MNFSR will address the grievances.  
+
+x.  The procuring Agency may reject all the bids or proposals at any time prior to the acceptance of a bid 
+
+or proposal under rule 33 of the Rules ibid.  
+
+xi.  The interested firms must give full address of their Head Office & Branch Offices with Telephone/Fax 
+
+Numbers and contact persons on the letterhead. 
+
+xii. Income Tax/any other tax, if leviable, will be deducted at  source on the  prescribed  rate for onward 
+
+payment to the Income Tax Department/Government. 
+
+1 
+
+Issuance of RFP on E-PADS 
+
+7th September 2025 
+
+2  Deadline  for  submission  of  clarification 
+
+questions  
+
+15th September 2025, 2.00 PM 
+Clarification questions may be submitted to the 
+following email address: mukhanpm@gmail.com 
+
+3  Deadline for submission of proposals    Date: 22nd September 
+
+4  Deadline  for  Opening  of  Technical 
+
+Proposals 
+
+Time : 2.00 PM 
+Date: 22nd September 
+Time : 2.30 PM 
+
+4. PROJECT SCHEDULE AND KEY TIMEFRAMES   
+
+(a)  The consultant shall commence the services within seven (07) days of the execution of the Agreement 
+
+for Services.   
+
+(b)  Regular  progress  meetings  will  be  held  between  the  Client  and  the  Consultant  to  review  project 
+
+milestones, address issues, and ensure alignment with the project objectives.  
+
+(c)  Any extensions or modifications to the timeline or scope of work will be documented and require 
+mutual  written  agreement  between  the  Client  and  the  Consultant,  ensuring  that  adjustments  are 
+justified and agreed upon by the parties.  
+
+(d)  Key project timeframes and set forth in Part II of this RFP. Services in connection with any specific 
+
+assignment will be deemed completed when the Client has accepted the final deliverable(s).  
+
+5. BASIC ELIGIBILITY CONDITIONS   
+
+(a)  The Firms must be a legally registered entity in Pakistan. Further, it shall have the capacity to conduct 
+
+business within the jurisdiction where the project will be implemented. (NTN, GST) 
+
+Page 5 of 49 
+
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+(b)  The Firms must have proper protocols in place to ensure compliance with regulatory and statutory 
+
+requirements applicable to their business practices.  
+
+(c)  The Firms must not have a conflict of interest that could affect their performance under the contract. 
+A statement and the Firms’ policies with respect to such conflicts must be included in the proposal.  
+(d)  Consultants must adhere to applicable data protection laws and regulations, ensuring that any data 
+
+collected or handled during the project is done so securely and ethically.   
+
+6. TECHNICAL PROPOSAL SUBMISSION AND EVALUATION CRITERIA 
+
+The selection will be based upon Quality and Cost Based Selection (QCBS): 
+
+(a)  The bids shall be evaluated on a Quality & Cost Based Selection, 80% weightage being allotted to 
+
+technical proposal. 
+
+(b)  Technical  proposals  must  score  at  least  80  points  to  be  considered  for  financial  proposal  review. 
+
+Proposals scoring below this threshold will be non-responsive. 
+
+(c)  Technical Proposals must include an overview of the firm (up to 4 pages or 10 slides), including 
+
+corporate information and evidence of capabilities.   
+
+(d)  Technical proposals must include contact information of at least three references (of clients for whom 
+the Firms has performed similar services in the past). The Client may at its discretion contact such 
+references (and if required, the Firms shall facilitate such interaction).  
+
+(e)  The evaluation criteria and point scoring criteria, as well as the related submission requirements, are 
+
+mentioned in Section II of this RFP. 
+
+7. FINANCIAL PROPOSAL SUBMISSION AND EVALUATION  
+
+(a)  In accordance with the purposes, the evaluation process will prioritize technical quality/competence. 
+In this regard, once the technical evaluations are complete, only the financial proposals of the bidders 
+will be opened.  
+
+(b)  The bids shall be evaluated on a Quality & Cost Based Selection, 20% weightage being allotted to 
+
+financial proposals. 
+
+(c)  The weightage of the marks obtained in the financial criteria shall be twenty percent (20%) and will 
+
+be calculated as under:  
+
+A = (Marks Obtained out of 100 of technical proposal) x 0.8 
+B = [100 x (Lowest Financial Proposal Value/Financial Proposal Value to be evaluated)] x 0.2 
+Final Score shall be calculated as per the following formula: Final Score = A + B 
+
+xiii. 
+
+The contract will be awarded to the firm obtaining highest Final Score (most advantageous 
+
+bid). 
+
+f)  Applicants must meet all the above minimum required qualification criteria to qualify. Failure to 
+
+meet any of the above criteria will disqualify a bidder. 
+
+g)  Financial Proposals must be submitted in accordance with the form set forth in Section IV of this 
+
+RFP.   
+
+Page 6 of 49 
+
+  
+  
+  
+ 
+  
+ 
+  
+ 
+  
+ 
+      
+ 
+ 
+ 
+ 
+8. AWARD AND AGREEMENT FOR THE FIRM 
+
+(a)  The award will be made to the bidder which, following successful technical negotiations, agrees to 
+the terms that best meet the project requirements and budget considerations. The Client reserves the 
+right to negotiate with the bidders on specific aspects to ensure that the project objectives are fully 
+met.  
+
+(b)  In the event there is only a single bidder that submits a proposal, the Client may proceed to award 
+the  contract  to  such  bidder;  provided  that  the  bidder  meets  the  minimum  threshold  set  for  the 
+qualification of the Technical Proposal.  
+
+(c)  Thereafter, an Agreement for Services (as set forth in Part V of this RFP) shall be executed with the 
+
+successful bidder.   
+
+(d)  Unless terminated earlier pursuant to terms of the Agreement for Services, the term of the contract 
+shall be TWELVE (12) weeks. The parties may mutually agree to extend the Agreement for Services 
+for a further period if deemed necessary.  
+
+(e)  As part of enhancing transparency and fairness, an Integrity Pact (as set forth in Part VI of this RFP) 
+
+must be signed by the Consultant.   
+
+9. PAYMENT TERMS AND CONDITIONS  
+
+(a)  Payments to the Consultant will be made upon satisfactory completion of the milestones set forth in 
+the  Agreement  for  Services.  Each  payment  will  require  the  submission  of  detailed  reports  and 
+deliverables as specified in the contract as mentioned in Section II. 
+
+(b)  All payments shall be made in Pakistani Rupees.  
+(c)  Applicable withholding taxes will be deducted at source as per the laws of Pakistan.  
+
+Page 7 of 49 
+
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Part II. SCOPE OF WORK  
+
+2.1 
+
+Introduction  
+
+Agriculture is a critical sector of Pakistan's economy, contributing significantly to GDP, employment, and 
+food security. The need for a robust, data-driven platform to monitor and manage domestic agricultural trade 
+and supply has become paramount. 
+
+The Ministry of National  Food Security &  Research is  primarily responsible to  ensure food security  and 
+promoting agricultural product development within the country and also manages Import / Export control on 
+essential Commodities (Wheat, Rice, Wheat Flour, Sugar, Pulses (Grain), Mung, Mash, Masoor, Chicken, 
+Mutton,  Beef,  Eggs,  Palm  oils,  Soyabean  oils,  Canola  oils,  Potatoes, Onion,  Tomato,  Garlic, Banana, 
+Cirtus, Dates, Mango, Fish, Fish Products, Sesame seeds). 
+
+The Ministry of National Food Security & Research operates without a Centralized Digital platform and 
+striving to streamline its Agro supply chain management to analyze demand and supply data of Agri products, 
+leading to inefficiencies in decision making and reduced competitiveness in global / international market. 
+
+The Digital Transformation of MNFSR aims to provide real-time data visualization, analytics, and decision-
+making  tools  to  stakeholders,  including  government  agencies,  farmers,  traders,  policymakers  and  other 
+relevant stakeholders. 
+
+2.2  Objective 
+
+The  primary  objective  of  this  assignment  is  to  identify  and  select  the  firm  with  proven  experience  in 
+development  of  Web  Portals,  Agri  trade  Commodities  dashboards,  Development  /  Implementation  of 
+Knowledge  Management  System  and  Development  of  Internal  Business  Operation  Modules  (Vehicle 
+Management  System,  Inventory  Management  System,  PSDP  Management  System,  International 
+Collaboration (IC) Management System). The firm will design & develop, test, deploy, and commission 
+these systems. 
+It will boost Pakistan’s competitiveness in global / international trade markets by identifying high demand 
+products  and  target  regions  and  to  further  enhance  ministry  capacity  to  market  evidence-based  decisions 
+regarding  export  strategies.  Facilitate  data  sharing  and  collaboration  among  key  stakeholders,  including 
+farmers, exporters and policy makers and address stakeholder complaints through an integrated grievance 
+resolution system. The digital transformation will enhance MNFSR capability to: 
+
+i  Enhancing Agricultural Knowledge Management and Accessibility. 
+ii  Knowledge sharing through digital repository. 
+iii  Improving Supply Chain Efficiency and Trade Transparency. 
+iv  Empowering Farmers and Stakeholders through Digital Inclusion. 
+v  Strengthening International Competitiveness and Climate Resilience. 
+vi  Ensuring System Interoperability and Long-Term Sustainability. 
+vii  Streamlining Business Operations for Enhanced Governance. 
+
+Page 8 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+2.3 
+
+Conceptual Framework 
+
+The firm will be required to design & develop, test, deploy, and commission Pakistan Agri Trade Portal, 
+Knowledge  Management  System  and  Ministry  Internal  Business  Operation  Systems  that  provides 
+comprehensive  information  on  domestic  and  International  agricultural  trade  and  supply  develop  for  the 
+Client. The Pakistan Agri Trade Portal and dashboards should enable real-time monitoring, reporting, and 
+analysis  of  agricultural  commodities,  facilitating  better  decision-making  and  policy  formulation  by 
+completing the following scope of work: 
+
+The PATP and dashboards will cover the following commodities: 
+
+a)  Main Crops: Wheat, Rice, Wheat Flour, Sugar. 
+b)  Meat & Poultry: Chicken, Mutton, Beef, Eggs. 
+c)  Edible Oils: Palm oils, soyabean oils. 
+d)  Vegetables: Potatoes, Onion, Tomato, Garlic. 
+e)  Fruits: Banana, Citrus, Dates, Mango, Apple. 
+f)  Aqua: Fish and Fish Products 
+g)  Seeds: Sesame seeds and oils 
+
+Conceptual Framework and Stakeholder Engagement 
+
+Stakeholder 
+Farmers 
+
+Policy Makers 
+
+Trader 
+
+Industry 
+Representatives 
+
+Focus area 
+Crop  yields,  cultivation  trends,  and 
+weather data. 
+Market prices and demand forecasts. 
+and 
+Subsidies, 
+government support details 
+
+loan  programs, 
+
+balances, 
+
+import/export 
+
+National production and consumption 
+trends. 
+Trade 
+statistics. 
+Policy impacts on supply chains and 
+market stability. 
+International  demand  and  price 
+trends. 
+Export compliance and regulations. 
+Trade agreements and market access 
+opportunities. 
+Raw  material  availability  and  price 
+trends. 
+Supply chain bottlenecks and risks. 
+Industry-specific market analytics. 
+
+Functionality 
+Alerts  for  optimal  sowing  and  harvesting 
+times. 
+Price  comparisons  for  fertilizers,  seeds,  and 
+pesticides. 
+Training 
+techniques. 
+Scenario analysis for policy decisions. 
+Regional and commodity-specific insights. 
+Data-driven 
+security and trade policies. 
+
+recommendations 
+
+for  modern 
+
+resources 
+
+farming 
+
+food 
+
+for 
+
+on 
+
+trade 
+
+global 
+
+tracking 
+
+Export readiness assessment tools. 
+Real-time 
+updates 
+opportunities. 
+Logistics 
+optimization. 
+Predictive 
+fluctuations. 
+Supplier and distributor performance tracking. 
+Cost-benefit analysis for production inputs. 
+
+supply-demand 
+
+analytics 
+
+supply 
+
+chain 
+
+and 
+
+for 
+
+Page 9 of 49 
+
+  
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+2.4  
+
+Specific Terms of References  
+
+The Terms of Refences are mentioned below for Digital transformation of MNFSR will include but not be 
+limited to these: (the Consultant may be taken onboard for discussion/negotiations by the Client during the 
+technical proposal evaluation for any amendments needed following implementation.) 
+
+2.4.1 Pakistan Agri Trade Portal 
+
+Dashboard Visualization  
+
+1.  The consultant will develop an interactive dashboard with charts, graphs, maps, search filters, drill-
+down functionality, and tooltips to explore and visualize key metrics on Agro-Commodities (Prices, 
+Production, Consumption, Stock Position). 
+
+2.  The consultant will tailor Group / Role based Dashboard for Farmers, Policymakers, Traders, Industry 
+
+representatives, and Researchers. 
+
+3.  The consultant will Integrate with domestic databases (production, consumption, stocking, pricing) 
+through  APIs,  secured  data  feeds,  and  formal  agreements  with  PBS,  provincial  agriculture 
+departments, PSW, SBP, and other agencies. 
+
+4.  The  dashboard  should  be  Integrated  with  international  data  sources  (FAO,  UN  Comtrade,  ITC, 
+Trademap, FAOSTAT, FPMA, etc.) through subscriptions to ensure uninterrupted global data access. 
+5.  The  consultant  will  develop  analytical  tools  for  comparing  domestic  supply  with  international 
+demand,  identifying  surpluses  for  export  and  deficits  requiring  import,  pricing  trend  analysis, 
+competitor benchmarking, and emerging market opportunities. 
+
+6.  The  dashboard  will  have  sustainable  data  access  mechanisms  through  API-based  integration, 
+
+subscription connectors, and secured data pipelines. 
+
+Pakistan Agri Trade Portal (PATP) 
+
+1.  The portal should include the International Trade Prices of mentioned Commodities (Wheat, Rice, 
+Sugar, Poultry, Meat, Fish Products, Sesame oil, Soyabean Oil, Palm Oil, Date, Mango, Cirtus, Apple, 
+Potato) on daily / weekly basis. 
+
+2.  The  portal  should  incorporate  structured  mechanisms  to  facilitate  the  Import  and  Export  of 
+Commodities (Wheat, Rice, Sugar, Poultry, Meat, Fish Products, Sesame Oil, Soybean Oil, Palm Oil, 
+Dates, Mangoes, Citrus, Apples, and Potatoes). 
+
+3.  The  portal  must  provide  comprehensive  details,  formalities,  and  resources  to  assist  Farmers, 
+
+Importers, and Exporters in their operations. 
+
+4.  The  portal  should  offer  the  functionality  to  showcase  information  on  Suppliers  (National  and 
+
+International) associated with Wheat, Rice, and Sugar commodities. 
+
+5.  The portal should provide the provision of showing  information pertaining to Wheat (Total Floor 
+Mills Name, Storage Capacity etc), Rice (Total Rice Mills Name, Storage Capacity etc) & Sugar 
+(Total Sugar Mills Name, Storage Capacity etc) Commodity. 
+
+6.  The  portal  should  develop  links  to  MNFSR,  attached  departments,  autonomous  bodies,  and  their 
+
+applications. 
+
+7.  The  portal  should  updated  details  of  government  schemes,  services,  and  advisories  relevant  to 
+
+agriculture. 
+
+8.  The portal should be linked to provincial agriculture departments (Punjab, Sindh, KP, Balochistan, 
+GB, AJK) and federal government agriculture portals. Integration with  existing agriculture-related 
+apps and portals (federal and provincial). 
+
+Page 10 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9.  The portal should have role-based user registration with secure login and multi-factor authentication. 
+10. The  portal  should  integrate  the  knowledge  Management  System  for  searchable  repositories  of 
+
+policies, advisories, FAQs, and guides as per requirements. 
+
+11. The portal will also have virtual consultation services with agriculture experts via chat/email and an 
+
+AI-powered chatbot for FAQs. 
+
+12. The portal should include Agri-related content sections including crop advisories, weather alerts, pest 
+warnings, government/private programs, certified seed suppliers, loans/insurance (via ZTBL), and 
+training resources (tutorials, manuals, online courses). 
+
+13. The  portal  should  also  include  discussion  forums,  panel  discussions,  and  community  boards  for 
+
+farmer–trader engagement on trending issues. 
+
+14. The  portal  will  have  analytics  &  forecasting  tools  for  price  analysis,  crop  forecasting,  predictive 
+supply-demand  modelling,  and  trade  facilitation  (export  readiness,  tariff  calculators,  trade 
+documentation, market access). 
+
+15. The portal should also have a grievance redressal/complaint system with digital submission forms 
+
+and tracking for resolution of the complaint. 
+
+16. It should have a direct access to Pakistan Agri Trade Supply Dashboards (Domestic & International 
+
+versions). 
+
+17. It should also have user engagement tools including social media integration, feedback mechanisms, 
+
+periodic surveys, and usage analytics for continuous improvement. 
+
+18. The portal should be available in multiple languages (English, Urdu etc) for accessibility. 
+19. The portal should have compliance and design with strong security controls (ISO 27001:2022) and 
+
+privacy by design principles (GDPR) to protect users personal and sensitive information. 
+
+2.4.2   Knowledge Management System 
+
+1.  The  Knowledge  Management  system  should  be  user  friendly  and  will  be  able  to  upload  large 
+
+document files, videos, pictures and presentations. 
+
+2.  The  Knowledge  Management  system  should  also  have  role-based  access  management  to  ensure 
+
+secure and appropriate sharing of sensitive data. 
+
+3.  The  Knowledge  Management  system  should  have  automated  alerts  system  regarding  new 
+
+knowledge updates, critical policy changes, or ongoing projects. 
+
+4.  The Firm will also be engaged for end-user training, documentation, and support post-deployment to 
+
+ensure smooth transition and usability. 
+
+5.  The Firm should also submit recommendations regarding post-commissioning maintenance, updates, 
+
+and support, even if out of initial scope, for longer-term project sustainability. 
+
+6.  The  Knowledge  Management  system  should  have  security  features  such  as  compliance  with  data 
+protection regulations, encryption, access controls, and role-based permissions to protect sensitive 
+data between users. 
+
+7.  The system should have customizable scalability to grow with the organization and adapt to specific 
+
+needs. 
+
+8.  The system should have a user-friendly interface with collaboration tools for comments, co-editing, 
+
+and feedback, supporting continuous improvement of knowledge 
+
+9.  The  centralized  knowledge  management  system  should  be  able  to  organize  both  structured  and 
+unstructured data with AI-driven categorization, tagging, and version control to ensure easy access 
+and up-to-date information. 
+
+Page 11 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+2.4.3  Vehicle Management System 
+
+1.  The  consultant  will  develop  centralized  database  structure  for  all  Ministry-owned  and  their 
+
+department vehicles with technical specifications and categorizations. 
+
+2.  The consultant will link database with existing Dashboards and analytics for vehicle utilization rates, 
+
+maintenance costs, and fuel expenditure trends. 
+
+3.  The  consultant  will  create  modules  for  vehicle  registration,  allocation,  uploading  document, 
+maintenance, fuel  consumption, mileage maintenance and life-cycle tracking  with  CRUD enabled 
+records. 
+
+4.  The system should be able to generate automated popup alerts for maintenance schedules, renewals, 
+
+and compliance. 
+
+5.  The consultant will implement Role-based access for administrators, drivers, and management. 
+6.  The consultant will develop filter based, user-friendly query screens to retrieve vehicle data in tabular 
+
+form. 
+
+2.4.4    Inventory Management System 
+
+1.  The consultant will develop centralized database structure for all Ministry assets and inventories with 
+
+technical specifications and categorizations. 
+
+2.  The consultant will link database with existing Dashboards and analytics showing current inventory 
+
+value, asset location, and consumption patterns for forecasting and decision support. 
+
+3.  The consultant will create modules for registration, management, requisition, uploading document 
+
+approval workflows, issuance, returns, and disposal with CRUD enabled records. 
+
+4.  The  system  generated  by  consultant  should  have  End-to-end  tracking  of  assets,  inventories, 
+
+consumables, and office supplies. 
+
+5.  The consultant will generate stock-level alerts, inventory reports, reorder management, tracking and 
+
+audit trails. 
+
+6.  The system should be able to develop filter-based query screens for access of data in tabular form 
+
+with files attached. 
+
+2.4.5   Public Sector Development Projects (PSDP) Management System 
+
+1.  The system develop by the consultant should generate a centralized database structure for end-to-end 
+project  lifecycle management of development  projects  initiation, planning, execution, monitoring, 
+closure (PC-I to completion). 
+
+2.  The system should be able to link database with existing Dashboards and analytics financial tracking 
+
+(budget vs. expenditure) with variance analysis. 
+
+3.  The consultant will develop CRUD-enabled document records with secure upload, edit, and archival 
+
+functions. 
+
+4.  The  consultant  should  create  modules  for  project  approval,  implementation  tracking,  resource 
+
+allocation, and reporting, budgeting, expenditures, disbursements. 
+
+5.  The  consultant  should  create  automated  mechanism  for  physical  progress  tracking,  milestone 
+
+management, automated alerts for delays and budget overruns, document management 
+
+6.  The consultant should create document repository for PC forms, progress reports, and evaluations. 
+7.  The  consultant  should  develop  filter  based  query  screens  for  access  of  data  in  tabular  form  with 
+
+documentation attached. 
+
+Page 12 of 49 
+
+  
+  
+  
+ 
+ 
+2.4.6  International Collaboration Management System 
+
+1.  The consultant will Develop centralized database structure for MOUs, MOIs, Protocols, Agreements, 
+
+JWGs, and JMCs categorized by type, partner country, sector, and validity period. 
+
+2.  The system will be able to link database with existing Dashboards and analytics for efficient decision 
+
+making, actionable insights and tracking. 
+
+3.  The system created by consultant should have automated workflows for drafting, review, approvals, 
+
+payments, tracking and renewals. 
+
+4.  The consultant should create mechanism for notifications and reminders for deadlines, renewals. 
+5.  The  system  should  be  developed  with  searchable  document  repository  management  with  version 
+
+control and CRUD enable records. 
+
+6.  The system will be able to create reporting module for collaboration status, partner country profiles, 
+
+and performance indicators. 
+
+7.  The system should be able to develop filter-based query screens for access of data in tabular form 
+
+with documentation attached. 
+
+2.4.7  General Technical Requirements 
+
+1.  The MNFSR is looking for the responsive Pakistan Agri Trade Portal to support mobile and desktop 
+versions of Apple Safari, Google Chrome, Edge, and Mozilla Firefox. The portal should support all 
+the updated and past versions of the browsers that have been released within the last 2 years. 
+
+2.  MNFSR is looking to have the consultant to ensure that end-users can easily interact with the system 
+through an integrated Content Management System (CMS), enabling non-technical staff to update, 
+manage, and publish content without technical dependencies. 
+
+3.  Licenses that are required to complete this project should be catered under the project cost and shall 
+
+be mentioned separately in the Financial Proposal. 
+
+4.  This is the main part. For Creation of Users, User Rights, Roles, Group, Role Management should be 
+created / configured / Assigned from front-end Form. The flexibility is required where we can allow 
+one or multiple users to assign multiple access rights (Read, Write, Add, Update, Delete, View etc) 
+5.  Deploy  the  Digital  Portal,  Dashboards,  Knowledge  Management  System  (KMS),  Vehicle 
+Management  System  (VMS),  Inventory  Management  System  (IMS),  PSDP  Management  System, 
+International Collaboration (IC) Management System on a reliable server for optimal performance 
+and security. 
+
+6.  The  vendor  must  propose  the  Complete  Production  Server,  Backup  Server,  OS,  Database, 
+
+Specification for successful deployment of systems in Technical Proposal.  
+
+7.  Ministry of National Food Security & Research don’t have inhouse Data Centre hence deployment 
+
+of systems on Government Cloud Server is Recommended.  
+
+8.  In submitted proposal, vendor shall be able to produce a Service Level Agreement (SLA) that details 
+
+guarantee of customer support as well as a service escalation process. 
+
+9.  Any other relevant /corresponding task may be assigned by MNFSR during the consultancy period 
+
+within the scope of this consultancy. 
+
+Page 13 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+2.4.8  After Sales - Service Specifications  
+
+ Following are the after-service specifications, the consultant is required to provide once the systems 
+are approved and are on-line 
+
+1.  The  vendor  shall  provide  structured  training  sessions,  including  user  manuals  and  system 
+walkthroughs, ensuring MNFSR personnel can effectively operate the Web Portal, KMS & Internal 
+Business Operation Software’s.  
+
+2.  Training for IT team on system maintenance, troubleshooting, and software updates.  
+3.  Overview of reporting, analytics, and compliance monitoring tools.  
+4.  Minimum 03-year coverage, including on-site/off-site issue resolution and system updates. 
+5.  24/7 support via phone and email for troubleshooting and operational queries.  
+6.  The  consultant  must  ensure  the  availability  of  qualified  personnel  for  maintenance  and  urgent 
+
+technical resolutions. 
+
+7.  The consultant shall provide support services for three years, including software updates, security 
+
+patches, and system optimizations.  
+
+8.  The consultant must ensure structured data migration, preserving data integrity during transition. 
+9.  The test on data validation and quality assurance must be performed before full deployment.  Support 
+
+for existing data structures and formats to ensure seamless historical data access. 
+
+10. The consultant shall ensure full compliance with the Government of Pakistan’s IT security policies, 
+
+data governance standards, and procurement guidelines. 
+
+11. The  consultant  will  deliver  a  mobile-responsive  and  cross-platform  compatible  UI/UX,  ensuring 
+
+accessibility across devices (desktop, tablet, mobile). 
+
+12. The consultant will incorporate data encryption (at rest and in transit), scheduled backups, disaster 
+
+recovery mechanisms, and audit logging for traceability. 
+
+13. The consultant will provide API-based integration capabilities to ensure smooth interoperability with 
+
+other government platforms and third-party systems. 
+
+14. The consultant will provide API-based integration capabilities to ensure smooth interoperability with 
+
+other government platforms and third-party systems. 
+
+15. The  consultant  will  support  secure  cloud  deployment  (public/private/hybrid)  with  commissioning 
+services, including configuration, performance tuning, and handover of fully operational systems to 
+the Ministry. 
+
+16. The consultant will make sure to implement multi-factor authentication (MFA), intrusion detection, 
+and strong encryption protocols to safeguard user and system data and implement robust database 
+structures with role-based access controls (RBAC), ensuring integrity, confidentiality, and controlled 
+access to information. 
+
+Timelines & Payment Schedule  
+
+2.5 
+The  overall  assignment  will  span  a  period  of  12  weeks,  with  the  following  deliverables,  timelines,  and 
+milestones.  
+
+Page 14 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sr.No 
+
+Deliverable / Milestone 
+
+Payment Schedule  
+Timeline 
+
+1 
+
+Detailed  project  plan 
+including 
+methodology,  timeline,  milestone 
+chart (Gantt), resource allocation. 
+
+01  Week 
+after 
+commencement  of 
+the Assignment. 
+
+Amount 
+20%  upon  approval  of  inspection 
+methodology, 
+report 
+implementation  plan 
+(including 
+timelines), milestone identification, 
+resource & responsibility matrix. 
+
+Submission, Presentation & 
+Approval of Draft: 
+1- Vehicle Management System 
+
+2- Inventory Management System 
+
+3- PSDP Management System 
+
+2 
+
+4- International Collaboration (IC) 
+Management System 
+
+5- Knowledge Management System 
+(KMS) 
+
+6- Pakistan Agri Trade Portal with 
+Dashboards 
+
+Training, Deployment, Go-Live, 
+Commissioning & UAT Sign off : 
+1- Vehicle Management System 
+2- Inventory Management System 
+3- PSDP Management System 
+4- International Collaboration (IC) 
+Management System 
+5- Pakistan Agri Trade Portal with 
+Dashboards 
+6- Knowledge Management System 
+(KMS) 
+
+3 
+
+03 Weeks after 
+commencement of 
+the Assignment  
+
+05 Weeks after 
+commencement of 
+the Assignment  
+
+06 Weeks after 
+commencement of 
+the Assignment  
+
+08 Weeks after 
+commencement of 
+the Assignment  
+
+40% upon approval of 6 digital 
+systems by the ministry. 
+
+12  Weeks 
+after 
+commencement  of 
+the Assignment 
+
+40% upon approval of successful 
+deployment, Test Running, training 
+and troubleshooting of these  6 
+digital systems of the ministry 
+
+2.6   Key Personals Education /Experience  
+
+The Key Personals are the members of the Team responsible to execute the Project. One person against 
+each specified position is Must. The number of persons against each position is subject to the Firm’s 
+discretion to achieve deliverables on time. The education, experience and certifications mentioned in table 
+below are added to the evaluation criteria of the Technical Proposal therefore mandatory. 
+
+Page 15 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+Certification 
+PMP,  PRINCE  2,  or 
+Agile/Scrum  Master 
+certification preferred 
+
+of 
+
+Designing 
+
+Knowledge 
+agriculture/trade 
+datasets, 
+interactive Dashboard. 
+Experience 
+forecasting  and 
+analysis. 
+
+in 
+trend 
+
+. 
+
+Role 
+Project 
+Manager 
+
+Business 
+Analyst 
+
+in  Project 
+
+Education 
+Master’s 
+Management, 
+Computer  Science,  or 
+related field 
+
+Bachelor’s  /  Master’s 
+in  CS  /  IT  or  relevant 
+field  
+
+Data Scientist 
+/ Engineer  
+
+Bachelor’s/Master’s  in 
+Science, 
+Computer 
+Data  Engineering,  or 
+Software  Engineering, 
+Data Science. 
+
+Full Stack 
+Developers 
+
+Bachelor’s 
+in 
+Computer  Science  or 
+Software Engineering 
+
+Experience 
+8–10 years in IT project 
+management, preferably with 
+large-scale government/ 
+international or agriculture-related 
+projects. 
+08 years of experience in 
+Software / Web Development 
+with minimum at least 03 years of 
+proven experience as Business 
+Analyst / Requirement Engineer. 
+Experience in Agri Commodity  
+Trading(National and 
+International). 
+5+  years  in  ETL  pipelines,  API 
+database 
+integration, 
+management 
+(PostgreSQL, 
+MySQL, MongoDB). 
+
+and 
+
+of 
+
+analytics, 
+
+in 
+(HTML, 
+
+4–6  years  in  statistical  modeling, 
+predictive 
+and 
+visualization  (Python,  R,  Power 
+BI, Tableau, or Dash). 
+demonstrated 
+6+ 
+years 
+front-end 
+proficiency 
+technologies 
+CSS, 
+JavaScript,  and  frameworks  such 
+as  Django/Flask,  React, 
+or 
+Angular),  back-end  development 
+(PHP,  Python,  Java,  Node.js), 
+REST/Fast  APIs,  and  database 
+technologies  (SQL/NoSQL,  e.g., 
+MySQL,  MongoDB).  Candidates 
+strong 
+must 
+knowledge  of  version  control 
+systems  (Git),  cloud  platforms 
+authentication 
+(AWS,  Azure), 
+secure 
+mechanisms, 
+architecture  design.  Experience 
+with  microservices,  server-side 
+architecture, 
+cloud-based 
+and 
+backend development is preferred. 
+
+possess 
+
+also 
+
+and 
+
+Cloud/DevOps 
+Engineer  
+
+in 
+Bachelor’s 
+Computer  Science  or 
+Information Systems 
+
+4–6 years in cloud hosting (AWS, 
+Azure, 
+CI/CD, 
+GCP), 
+Docker/Kubernetes. 
+
+certification 
+Cloud 
+(AWS, Azure, or GCP) 
+preferred 
+
+Page 16 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+2.7   Evaluation Criteria 
+
+Category 
+
+Sub-Criterion 
+
+Submission Requirement 
+
+I. Organization 
+Capability & 
+Relevant 
+Experience  
+
+a) Demonstrated experience in developing and 
+large-scale 
+deploying 
+solutions, 
+ICT 
+information  systems,  digital 
+trade/market 
+portals, 
+in 
+agriculture, trade, or supply chain domains). 
+
+and  dashboard 
+
+(preferably 
+
+b)  Prior  work  with  government  institutions, 
+in 
+ministries, 
+digital platforms/ICT solutions. 
+
+international  organizations 
+
+Project  Completion  Reports  of  at  least  3  past 
+projects of similar nature. Provide: 
+
+i. Project title  
+ii. Client name 
+iii. Country/location  
+iv. Duration (with start & completion dates) 
+v. Technologies used 
+vi. Description of key features and outcomes 
+
+II. Technical 
+Approach & 
+Methodology 
+
+c)  Demonstrated  capacity of  firm  (team  size, 
+technical expertise, certifications, partnerships 
+with technology providers). 
+
+List  of  projects  with  documentary  evidence 
+(contracts/LoAs/letters of completion) 
+Organizational profile and certifications 
+
+a)  Understanding  of  assignment,  scope  of 
+work, and objectives. 
+
+Narrative write-up/slide presentation outlining 
+comprehension of assignment and context 
+
+b)  Proposed  methodology,  workplan,  and 
+approach  for  system  design,  development, 
+testing, deployment, and commissioning. 
+
+Detailed  technical  proposal  with  workplan, 
+Gantt chart, milestones, and deliverables 
+
+c) Proposed innovative solutions, use of open-
+source 
+capacity, 
+user-friendliness, 
+interoperability, 
+sustainability, and scalability. 
+
+integration 
+
+platforms, 
+
+Description  in  proposal  (including  any  fast-
+track or phased implementation strategy) 
+
+III. Proposed 
+Personnel and 
+Capacity  
+
+Project Manager  
+
+Business Analyst 
+
+Detailed CV of Team Leader 
+
+Detailed CVs of nominated team 
+
+Data Scientist / Engineer  
+
+Full Stack Developers 
+
+Cloud/Dev Ops Engineer  
+
+IV. After Sales 
+Services 
+
+a) Cost-effectiveness and value for money. 
+
+Detailed proposal of after sales services 
+
+Page 17 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+      
+ 
+ 
+ 
+2.8       Scoring 
+
+Points Scoring As per Technical Evaluation Criteria (80%).  
+
+Note:  
+
+1.  Relative marking should be observed wherever deemed necessary. 
+
+2.  Documentary Evidence must be submitted where applicable 
+
+Sno  Requirements  
+
+1 
+
+Number of projects. [Number of satisfactorily and substantially completed 
+similar projects.] 
+3 + projects (national /international) 
+1-2 projects 
+0 projects 
+
+2  Work with government / international organisations (05) 
+
+Prior work with Govt institutions/ international organizations 
+No work with Govt institutions/ international organizations 
+
+3  Size and capacity of firm (15) 
+
+At least 10 team members working with company for 5 years 
+Partnerships with 10 companies (active) 
+Experience in Deployment of System on Cloud based environment 
+
+Points 
+
+Total 10 
+
+10 
+05 
+0 
+Total 05 
+05  
+0 
+
+Total 15 
+05 
+05 
+05 
+
+4  Understanding  of  assignment,  scope  of  work,  TORs  and  objectives.  (Firm 
+
+Total 10 
+
+may be called for the Presentation and clear demonstration of  
+
+5  Proposed  methodology,  workplan,  and  approach  for  system  design, 
+
+Total 10 
+
+development, testing, deployment, and commissioning. 
+
+6  Proposed  innovative  solutions,  use  of  open-source  platforms,  integration 
+capacity, interoperability, user-friendliness, sustainability, and scalability. 
+
+Total 10 
+
+7 
+
+Key personals  
+
+a)  Project Manager as mentioned in section 2.6 
+b)  Business Analyst as mentioned in section 2.6 
+c)  Data Scientist / Engineer as mentioned in section 2.6 
+d)  Full Stack Developer as mentioned in section 2.6 
+e)  Cloud/Dev Ops Engineer as mentioned in section 2.6 
+
+8  After Sales -Services (as mentioned in sections 2.4.8) 
+
+  TOTAL 
+
+Total 30  
+09 
+06 
+05 
+05 
+05 
+
+10 
+
+100 
+
+Page 18 of 49 
+
+  
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Part III. TECHNICAL PROPOSAL SUBMISSION FORM 
+
+Instructions: Firms shall use the following form (to be printed on the firm’s letterhead) as cover note for 
+their technical proposals.  
+
+To 
+
+The Procurement Committee 
+Project Planning and Development Unit 
+MNFSR, Islamabad. 
+
+Dated:  
+
+DD/MM/YR 
+
+Subject: Technical Proposal in response to [Insert RFP Name and Number]   
+
+Dear PPDU,  
+
+We, the undersigned, offer to provide services in accordance with your Request for Proposal [Insert 
+RFP No.] dated [Insert Date]. We are hereby submitting our proposal, which includes a Technical Proposal 
+and a Financial Proposal.   
+
+We hereby declare that all the information and statements made in this Proposal are true and accept that any 
+misrepresentation contained herein may lead to our disqualification.  
+
+We confirm that, based on our current best knowledge, there are no real or potential conflicts of interest 
+involved in rendering services contemplated in the RFP. Our policy on dealing with conflicts of interest, 
+should these arise, is also set out as per the attached. We acknowledge and agree that the Client has the right 
+to determine whether there is any actual or potential conflict of interest in its sole discretion.  
+
+If negotiations are held during the period of validity period set forth in the RFP, we undertake to negotiate 
+on the basis of the proposed staff, methodology, and approach. Our Proposal is binding upon us, subject to 
+any modifications resulting from negotiations prior to award.  
+
+We undertake, if our Proposal is accepted, to initiate the services in accordance with the timeline set forth 
+in RFP.  
+
+We understand you are not bound to accept any Proposal you receive.  
+
+Yours sincerely,  
+
+[Authorized Signatory (In full and initials)] Name and 
+Title of Signatory:  
+Name of Firm:  
+Address:  
+Email address:   
+
+Page 19 of 49 
+
+  
+  
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+FORM  TECH-I  CONSULTANT’S ORGANIZATION AND EXPERIENCE  
+
+A - Organization  
+
+[Provide here a brief (two pages) description of the background and organization of your firm/entity 
+(including organogram) and each associate for this assignment.]  
+
+B - Consultant’s Experience  
+[Using the format below, provide information on each assignment for which your firm, and each associate 
+for this assignment, was legally contracted as a corporate entity or as one of the major companies within 
+an association, for carrying out consulting services similar to the ones requested under this Assignment. 
+Use maximum 20 pages. Please provide Client’s certification and/or evidence of the contract agreement.]  
+
+Assignment name:  
+
+Cost of the Project  
+
+Country:  
+Location within country:  
+
+Name of Client:  
+
+Duration of assignment (months):  
+
+Total No of staff-months (by your firm) on the 
+assignment:  
+
+Start date (month/year):  
+Completion date (month/year):  
+
+Total Value.  
+
+Name of associated Consultants, if any:  
+
+No of professional staff-months provided by associated 
+Consultants:  
+
+Name of senior professional staff of your firm involved and functions performed (indicate most significant 
+profiles such as Project Director/Coordinator, Team Leader):  
+
+Page 20 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Narrative description of Project:  
+
+Description of actual services provided by your staff within the assignment  
+
+1.  Firms Name: ……………………………  
+2.  Certificate by the Client / Employer that the work was successfully completed by the consultant.  
+
+FORM  TECH-II  TEAM COMPOSITION AND TASK ASSIGNMENTS  
+
+Professional 
+Staff  
+
+Name of Staff   CNIC 
+
+Firm   Area of 
+
+Position Assigned   Task Assigned  
+
+No./Passport 
+No.  
+
+Expertise  
+
+Page 21 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+FORM TECH-III CURRICULUM VITAE (CV) FOR PROPOSED STAFF 
+
+1.  Proposed Position [only one candidate shall be nominated for each position]:   
+
+2.  Name of Staff [Insert full name]:       
+
+3. Date of Birth:    
+
+4. Nationality:    
+
+5. CNIC No (if Pakistani):   
+6.  Education:   (relevant Degree Mentioned in Section 2) 
+
+ or Passport No:   
+
+Degree  
+
+Major/Minor  
+
+Institution  
+
+Date (MM/YYYY)  
+
+7.  Certification [mentioned in Section 2]:    
+
+8.  Training [Indicate significant training Mentioned in Section 2]:    
+
+9.  Employment Record [Starting with present position years of experience]  
+
+Employer  
+
+Position  
+
+From 
+(MM/YYYY)  
+
+To (MM/YYYY)   Years of 
+
+experience 
+total 
+
+10. Certification:  
+
+Page 22 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+ 
+  
+I, the undersigned, certify that to the best of my knowledge and belief, this CV correctly describes myself, 
+my qualifications, and my experience.  I understand that any wilful misstatement described herein may lead 
+to my disqualification or dismissal, if engaged.  
+
+[Signature of staff member or authorized representative of the staff]  
+
+Day/Month/Year  
+
+ Date:    
+
+Full name of authorized representative:    
+
+FORM TECH-4   DESCRIPTION   OF   APPROACH,  METHODOLOGY AND WORK 
+PLAN FOR PERFORMING THE  ASSIGNMENT  
+
+[Technical approach, methodology and work plan are key components of the Technical Proposal.  You are 
+suggested to present your Technical Proposal (50 pages, inclusive of charts and diagrams) divided into 
+the following three chapters:  
+
+a)  Technical Approach and Methodology,  
+b)  Work Plan, and  
+c)  Organization and Staffing,  
+
+a) 
+Technical Approach and Methodology.  In this chapter you should explain your understanding of 
+the objectives of the assignment, approach to the services, methodology for carrying out the activities and 
+obtaining the expected output, and the degree of detail of such output. You should highlight the problems 
+being addressed and their importance, and explain the technical approach you would adopt to address them. 
+You should also explain the methodologies you propose to adopt and highlight the compatibility of those 
+methodologies with the proposed approach.  
+
+b) 
+Work Plan.  In this chapter you should propose the main activities of the assignment, their content 
+and duration, phasing and interrelations, milestones (including interim approvals by the Client), and delivery 
+dates  of  the  reports.  The  proposed  work  plan  should  be  consistent  with  the  technical  approach  and 
+methodology, showing understanding of the TOR and ability to translate them into a feasible working plan. 
+A list of the final documents, including reports, drawings, and tables to be delivered as final output, should 
+be included here. The work plan should be consistent with the Scope of work Section 2 of RFP.   
+
+c) 
+Organization and Staffing.  In this chapter you should propose the structure and composition of your 
+team.  You  should  list  the  main  disciplines  of  the  assignment,  the  key  expert  responsible,  and  proposed 
+technical staff as mentioned is Tech Form 2 and 3. 
+
+Page 23 of 49 
+
+  
+  
+  
+ 
+ 
+  
+  
+ 
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Sr. 
+
+No. 
+
+1 
+
+Scope of the work: 
+
+Description of Tasks 
+
+Tools used 
+
+a.  Brief overview of the understanding of project objectives 
+
+and key proposed solutions. 
+
+b.  Agency Profile and Relevant Experience 
+
+c.  Overview of the agency and examples of similar projects 
+
+delivered. 
+
+d.  Technical Approach and Methodology 
+
+e.  Detailed plan for portal, dashboard, and system development 
+
+including technology stack, security, API integrations, 
+
+multi-language support, and data migration strategy. 
+
+All necessary tools 
+
+f.  Timeline, milestones, risk mitigation, communication and 
+
+required for the 
+
+training plans. 
+
+g.  After-Sales Support and Maintenance plan. 
+
+provision of services 
+
+to MNFSR for the 
+
+h.  Plan for SLA, support services, training, software updates, 
+
+execution of tasks 
+
+and maintenance. 
+
+according to scope of 
+
+i.  Team Composition and Expertise 
+
+work.  
+
+j.  Details of key personnel involved, roles, and qualifications. 
+
+k.  Compliance and Security Measures 
+
+l.  Data protection methods, user access controls. 
+
+m.  Full financial proposal including licenses, hosting, 
+
+development, training, and maintenance costs. 
+
+Page 24 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part IV. FINANCIAL PROPOSAL SUBMISSION FORMS  
+Instructions: Firms shall use the following form (to be printed on the firm’s letterhead) as cover note for 
+their financial proposals.  
+
+To 
+
+The Procurement Committee 
+Project Planning and Development Unit 
+MNFSR, Islamabad. 
+
+Dated:  
+
+DD/MM/YR 
+
+Subject: Financial Proposal in response to [Insert RFP Name and Number]   
+
+Dear PPDU,  
+
+In response to your Request for Proposal dated [Insert Date], we are submitting our financial proposal for 
+the project titled “[Insert title of assignment].” This proposal aligns with the specifications detailed in the 
+RFP and our Technical Proposal.  
+
+In the attached Form FIN-1, we have presented our financial proposal. This proposal remains valid for the 
+period specified in the RFP, and is subject to modifications as per the process specified under the RFP.   
+
+We  understand  that  you  are  not  obligated  to  accept  any  proposal  you  receive,  and  the  in  the  event 
+negotiations do not succeed, the Client may at its sole discretion proceed to negotiate with another qualified 
+bidder.  
+
+Yours sincerely,  
+
+[Authorized Signatory (In full and initials)] Name and 
+Title of Signatory:  
+Name of Firm:  
+Address:  
+Email address:   
+
+Page 25 of 49 
+
+  
+  
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+FIN-1. Financial Proposal  
+
+Costs set forth below will include all costs* of the Consultant’s team associated with completion of the 
+assignment.    
+
+Cost (PKR) 
+
+Comments (if any) 
+
+Specify type and duration 
+
+Specify duration 
+
+Specify applicable taxes 
+
+Item Description 
+A. Professional Fees / Remuneration 
+(Form Attached Below) 
+B. Software Licenses and 
+Subscriptions 
+C. Deployment Costs (With Cloud 
+Hosting) 
+D. Deployment Costs (Without Cloud 
+Hosting) 
+E. Training and Support Costs 
+F. Implementation and 
+Commissioning 
+G. Maintenance and After-Sales 
+Support 
+H. Taxes (GST, Income Tax etc.) 
+I. Other Costs (Specify) 
+Total Estimated Cost (With Cloud 
+Hosting) (A+B+C+E+F+G+H+I) 
+Total Estimated Cost (Without Cloud 
+Hosting) (A+B+D+E+F+G+H+I) 
+
+Remuneration Costs (for each individual person) 
+
+Item  
+
+Cost   
+
+A. Renumeration  
+(exclusive of taxes)   
+
+B. Tax Estimates – to be discussed and finalized at the negotiations if the contract is being 
+awarded  
+
+{insert type of tax, e.g. sales tax}  
+
+{insert type of tax, e.g. income tax on non-
+resident experts}  
+{insert type of tax}  
+
+Page 26 of 49 
+
+  
+  
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Total estimated taxes  
+
+ Total Remuneration Cost. Attached a separate table 
+* Costs shall include all costs associated with completing the assignment, other than for travel that may be 
+required in connection with any meetings or other activities related to the assignment, which must be pre-
+approved by the Client (and will be reimbursed at actual). For such travel within Pakistan, the Client will 
+reimburse (a) economy-class airfare, which the Consultant will be free to upgrade through at its own cost 
+and (b) hotel stay at a 5-star facility. In the event any international travel is required, it shall also require 
+pre-approval, and shall be benchmarked to the Federal Government’s policy in this regard (and any 
+upgrades will be at the Consultant’s cost). For the avoidance of doubt, the Client shall not reimburse costs 
+associated with Consultant’s staff travel to, and lodging expenses in, Islamabad for purposes of providing 
+services to the Client.  
+
+Page 27 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+Part V. FORM OF AGREEMENT FOR SERVICES 
+
+     Form of  
+
+AGREEMENT FOR SERVICES  
+
+Between  
+
+{name} 
+
+And  
+
+{name}  
+
+ Date{} 
+
+Page 28 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+This Agreement for Services (“Agreement”) is dated [insert date] (the “Effective Date”) and entered 
+into between:  
+
+[Name of entity], a [type of the entity] organized and existing under the laws of [specify jurisdiction], 
+with its principal place of business at [specify address] (the “Client”), through its authorized 
+representative;   
+ and  
+
+[Name of entity], a [type of the entity] organized and existing under the laws of [specify jurisdiction], 
+with its principal place of business at [specify address] (the “Consultant”), through its authorized 
+representative;  
+
+each a “Party” and together the “Parties”.  
+
+WHEREAS pursuant to the program an RFP titled “[insert name],” RFP No. [insert number] 
+
+dated [insert date] had been shared with shortlisted firms for hiring of a firm;   
+
+AND WHEREAS the Consultant has emerged as the successful bidder in response to the RFP 
+
+and the terms and conditions for the engagement have been finalized between the Parties;  
+
+NOW, THEREFORE, for and in consideration of the mutual covenants and agreements herein 
+
+agreed upon, the Parties hereby agree as follows:  
+
+Page 29 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+1.   DEFINITIONS  
+
+a)  “Agreement” means the Agreement signed by the Parties and all the attached documents.  
+b)  “Client” means the organization with which the selected Consultant signs the Agreement for the 
+
+Services.  
+
+c)  “Consultant” means any entity or person that may provide or provides the Services to the Client 
+
+under the Agreement.  
+
+d)  “Data Sheet” means such part of the Instructions to Consultants used to reflect specific conditions.  
+e)  “Day” means calendar day.  
+f)  “Government” means the Government of the Pakistan and all its associated departments, agencies, 
+autonomous/semiautonomous bodies, local governments, boards, universities and similar other 
+organizations.  
+
+g)  “Instructions to Consultants” means the document which provides Consultants with all information 
+
+needed to prepare their Proposals.  
+
+h)  “Personnel” means professionals and support staff provided by the Consultant or by any Sub-
+
+Consultant and assigned to perform the Services or any part thereof; “Foreign Personnel” means 
+such professionals and support staff who at the time of being so provided had their domicile outside 
+Pakistan; “Local Personnel” means such professionals and support staff who at the time of being so 
+provided had their domicile inside Pakistan.  
+
+i)  “Proposal” means the Technical Proposal and the Financial Proposal.  
+j)  “RFP” means the Request for Proposal to be prepared by the Client for the selection of Consultants, 
+
+based on the Standard RFP.  
+
+k)  “Services” means the work to be performed by the Consultant pursuant to the Agreement. 
+l)  “Terms of Reference” (TOR) means the document included in the RFP as Section 2 which explains 
+the objectives, scope of work, activities, tasks to be performed, respective responsibilities of the 
+Client and the Consultant, and expected results and deliverables of the assignment.  
+
+2.  
+
+SCOPE OF THE AGREEMENT; TERM OF AGREEMENT  
+
+2.1 The Consultant shall perform the Services set out in Schedule A (Scope of Work) in 
+accordance with terms and conditions of this Agreement.  
+
+2.2 Unless terminated earlier pursuant to Section 12 or Section 13 of the Agreement, the 
+Agreement shall remain valid from the Effective Date for a period of eight (08) weeks. The parties 
+may mutually agree to extend the Agreement for a further period if deemed necessary for the 
+effective completion of Services.   
+
+3.  
+
+PAYMENT; INVOICING  
+
+3.1 Payment to the Consultant for Services provided shall be in the manner set forth in Schedule B 
+(Payment Terms) to this Agreement.   
+
+3.2 The Client shall make payments under the Agreement subject to the following conditions:  
+
+Page 30 of 49 
+
+  
+  
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+(a)  Payments shall be made only after the Designated Officer certifies that the Services were 
+
+evaluated and found to have been performed or provided in accordance with the terms of the 
+Agreement. If after evaluation it is observed that the Consultant’s work requires further 
+modification then the Consultant shall be provided additional days by the Client to make the 
+required changes and resubmit their work;  
+
+(b)  The Consultant’s request for payment shall be made to the Client in writing; accompanied by 
+an invoice describing the Services performed delivered and documents required under the 
+Agreement; and certifying fulfillment of all applicable obligations stipulated in the 
+Agreement;  
+
+(c)  The Client shall pay the properly invoiced amount within a period of forty-five (45) days after 
+the date on which the Consultant submits a duly completed and valid invoice or claim to the 
+Client;  
+
+(d)  The Consultant shall submit such documents supporting the Consultant’s invoice or statement 
+
+of account, as the Client may reasonably require.  
+
+(e)  The Consultant shall provide the Client with the Consultant’s bank details such as bank name, 
+
+bank address/branch, account name, and account number on its invoices or request for 
+payment.  
+
+3.3 For each day that there is a Delay on part of the Consultant, the Client shall deduct 0.5% of the 
+value of the specific milestone in connection with which there is a Delay, which may extend to a 
+maximum of 10% of such milestone payment.   
+
+4.   CONSULTANT-RELATED PERSONS  
+
+4.1 Key personnel of the Consultant that shall be engaged for provision of Services under this 
+Agreement are set forth in Schedule C (Key Personnel) of this Agreement. With respect to other 
+Consultant-Related Persons, the Consultant may propose staff on specific workstreams, the 
+Consultant shall submit a copy of their curriculum vitae for the Client’s review and approval.  
+
+4.2 The Client may request the withdrawal or replacement of any of the Consultant-Related 
+Person(s) if the Client finds their qualifications and training to be inconsistent with the 
+qualifications agreed with the Consultant and/or their performance to be inadequate.  
+
+4.3 The withdrawal or replacement of the Consultant–Related Person shall be carried out as 
+quickly as possible and in a manner that will not adversely affect the performance of obligations 
+under the Agreement. All expenses related to the withdrawal or replacement of the Consultant’s 
+personnel shall, in all cases, be borne exclusively by the Consultant.  
+
+4.4 Prior to employing individuals or subcontractors to work under this Agreement, the Consultant 
+shall, at its own expense, perform or cause to be performed the relevant background checks, and 
+maintain, or cause to be maintained, the results of the background checks in its employee’s and its 
+
+Page 31 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+subcontractor’s employee’s file in accordance with the applicable laws to ensure that reliable and 
+competent individuals are selected.  
+
+4.5 During the provision of the Services, if substitution of Consultant’s key personnel or experts is 
+necessary, the Consultant shall propose other experts of at least the same level of qualifications for 
+approval by the Client.  
+
+4.6 The Consultant shall ensure that all Consultant-Related Persons behave in accordance with 
+applicable laws, generally acceptable professional standards, and good industry practice in 
+performing the Services under the Agreement.  
+
+5.   CONSULTANT’S UNDERTAKING  
+
+5.1 The Consultant shall immediately notify the Client in writing if:  
+
+(a) 
+
+(b) 
+
+(c) 
+
+(d) 
+
+(e) 
+
+(f) 
+
+(g) 
+
+(h) 
+
+the Consultant merges with, acquires, or transfers all or substantially all of its assets to 
+another entity;  
+
+any person or entity acquires directly or indirectly the majority of the beneficial ownership 
+rights in the Consultant;  
+
+any person or entity acquires directly or indirectly the power to elect a majority of the 
+board of directors of the Consultant, or otherwise acquires directly or indirectly the power 
+to control the policy making decisions of the Consultant;  
+
+the Consultant is dissolved; applies for insolvency or bankruptcy; or otherwise admits in 
+writing its inability to pay its outstanding obligations or liabilities;  
+
+the Consultant is administratively or judicially declared insolvent or bankrupt, placed 
+under receivership, administration, rehabilitation or liquidation or any other such 
+equivalent process;  
+
+the Consultant’s financial condition becomes significantly unstable and threatens to 
+jeopardize the Consultant’s ability to perform its obligations under the Agreement;  
+
+the Consultant loses any license or authorization required to perform its obligations under 
+the Agreement; or  
+
+the Consultant faces any event beyond its control or a situation that makes it impossible 
+for it to carry out its obligations under the Agreement.  
+
+If any of the events set forth in Clause 5.1 occur, the Parties shall, without prejudice to 
+
+5.2 
+any other provision of the Agreement, use reasonable endeavors to agree alternative arrangements 
+to ensure full performance of the Agreement.  
+
+Page 32 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+The Consultant shall provide the Services in good faith, with due professional care and 
+
+5.3 
+skill and in a manner that meets or exceeds prevailing industry and professional standards and 
+undertakes to ensure that the Services do not infringe any third-party trade secret, copy right, patent 
+or trademark.  
+
+5.4 
+The Consultant shall obtain certificates, permits, approvals, licenses and other documents 
+required under applicable laws, regulations and decrees which are required in order to perform the 
+Services under the Agreement. If the Consultant requests the Client’s assistance in obtaining such 
+permits, approvals, or licenses from local public authorities, the Client may exert reasonable efforts 
+to assist the Consultant in completing such requirements in a timely and expeditious manner.  
+
+The Consultant shall perform its obligations under this Agreement diligently, observe 
+
+5.5 
+good social management practices, and comply with relevant laws, regulations, decrees and orders 
+concerning environmental protection, corporate social responsibility and employees of the 
+Consultant engaged in performing the Services (including harassment and dissemination related 
+laws).  
+
+The Consultant shall observe the highest standard of ethics during the execution of this 
+
+5.6 
+Agreement. The Client reserves the right to terminate this Agreement (in addition to any other legal 
+remedies) if it is established that the Consultant has engaged in any corrupt or fraudulent practices 
+in the performance of the Services under this Agreement.   
+
+6.   REPRESENTATIONS AND WARRANTIES  
+
+6.1 The Consultant warrants and represents that:  
+
+(a)  it has full capacity, authority and consent, including the consent of its parent company, 
+where applicable, and that it possesses the necessary licenses, permits, and power to execute 
+and perform its obligations under the Agreement;  
+
+(b) the Agreement is executed by a duly authorized representative of the Consultant;  
+
+(c)  as of the Effective Date, all information contained in the Consultant’s bid or proposal 
+remains true, accurate and not misleading;  
+
+(d) it is in compliance with, and shall continue to comply with, all applicable laws, rules, 
+regulations, and lawful orders of public authorities of any jurisdiction in which the Services 
+shall be performed under this Agreement;  
+
+(e)  no claim is being asserted and no litigation, arbitration or administrative proceeding is 
+presently in progress, pending or being threatened against the Consultant or any of its assets 
+that could adversely affect the Consultant’s ability to perform the Services under the 
+Agreement;  
+
+(f)  it is not subject to any contractual obligation that would adversely affect the Consultant’s 
+ability to perform the Services under the Agreement; nor has the Consultant done or omitted 
+
+Page 33 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+to do anything that could adversely affect its assets, financial condition or position as a going 
+business concern;  
+
+(g)  it has not filed nor is it facing proceedings for winding up its business or for dissolution, 
+insolvency, bankruptcy, or the appointment of a receiver, liquidator, administrator or similar 
+officer in relation to any of the Consultant’s assets or revenue; and  
+
+(h) it has undertaken all financial accounting and reporting activities required under the 
+generally accepted accounting principles that apply to the Consultant and in the country 
+where it is registered and has complied with applicable securities and tax laws and 
+regulations.  
+
+7.  
+
+SOURCE OF INSTRUCTION  
+
+Subject to Clause 7.2, the Consultant shall neither seek nor accept instructions from any 
+
+7.1  
+authority external to the Client in connection with the performance of its obligations under the 
+Agreement. Should any authority external to the Client seek to impose any instructions concerning 
+or restrictions on the Consultant’s performance under the Agreement, the Consultant shall 
+promptly notify the Client. The Consultant shall not take any action in respect of the performance 
+of its obligations under the Agreement that may adversely affect the interests of the Client, and the 
+Consultant shall perform its obligations under the Agreement with the fullest regard to the interests 
+of the Client.  
+
+8.   CONFIDENTIAL INFORMATION  
+
+The Parties shall treat each other’s Confidential Information as confidential in accordance 
+
+8.1  
+with this Clause, use the Confidential Information solely for the purpose for which it was 
+disclosed, and exert diligent efforts to safeguard and avoid unauthorized disclosure of the other 
+Party’s Confidential Information to third parties without the disclosing Party’s prior written 
+consent.  
+
+8.2  
+Unless the Client states otherwise, disclosures by the Client to the Consultant shall be 
+deemed confidential. The Consultant may only disclose the Client’s Confidential Information to 
+the Consultant-Related Persons who are directly involved and who need to know the information in 
+providing the Services. The Consultant shall ensure that such Consultant-Related Persons are 
+aware of and shall comply with the Consultant’s obligations as to confidentiality. For the 
+avoidance of doubt any unauthorized disclosure of the Client’s Confidential Information by a 
+Consultant-Related Person shall be deemed to be a breach of this Clause by the Consultant. The 
+Client may, as it deems appropriate and in light of the particular Services to be performed by the 
+Consultant request the Consultant to require any Consultant-Related Person to sign a 
+confidentiality undertaking substantially similar to this Clause before commencing any work 
+related to the Services covered by the Agreement.  
+
+8.3  
+information, including Confidential Information that:  
+
+The obligations of confidentiality specified in this Clause shall not apply to any 
+
+Page 34 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+(a)  is in the public domain at the date of this Agreement or subsequently becomes generally 
+available to the public (other than as a result of its disclosure by the receiving Party or its 
+representatives in breach of this Clause);  
+
+(b) was made available to the receiving Party other than pursuant to a breach of confidence on a 
+non-confidential basis before disclosure by the disclosing Party under this Agreement;  
+
+(c)  the Parties agree in writing is not confidential or may be disclosed; and  
+
+(d) is developed by or for the receiving Party independently of and without reference to any 
+
+information disclosed by the disclosing Party.  
+
+If the Consultant is or may be required to disclose Confidential Information belonging to 
+
+8.4 
+the Client pursuant to any applicable law, regulation or judicial or arbitral decision, it shall 
+promptly notify the Client of the same and shall cooperate with the Client and use its best 
+endeavors to prevent and/or limit the extent of disclosure.  
+
+8.5 
+applicable law, regulation or judicial or arbitral decision.  
+
+The Client may disclose Confidential Information to the extent required pursuant to any 
+
+8.6 
+These obligations and restrictions of confidentiality shall be effective during the term of 
+the Agreement, including any extension thereof, and, unless otherwise provided in the Agreement, 
+shall remain effective following any termination of the Agreement. If requested by the disclosing 
+Party, the receiving Party shall return to the disclosing Party all Confidential Information in written 
+form or destroy or (to the extent technically practicable) permanently erase all Confidential 
+Information (or copy thereof) provided to the receiving Party in written or electronic form; save to 
+the extent that the receiving Party is required to retain such Confidential Information (or a copy 
+thereof) by applicable law, rule or regulation, or to the extent that such information is contained in 
+any computer records or files which have been created pursuant to the receiving Party’s automatic 
+archiving and back-up procedures. To the extent that the receiving Party retains any such 
+Confidential Information in accordance with this provision, the confidentiality obligations set out 
+herein shall continue to apply with respect to such Confidential Information.  
+
+9.   CONFLICT OF INTEREST  
+
+9.1 The Consultant shall ensure that the key personnel and other experts working on specific 
+assignments avoid, during the term of the Agreement, carrying out any other assignments that may 
+give rise to a conflict of interest with respect to the Consultant’s obligations under this Agreement.  
+
+9.2 The Consultant warrants that at the time of execution of this Agreement, the key personnel and 
+other experts who are expected to work on specific assignments are not engaged in any ongoing 
+work that would violate this Clause. The Consultant shall disclose to the Client details of any such 
+conflict of interest which may arise during the term of the Agreement.  
+
+9.3 The Client shall undertake measures to manage actual or potential conflicts of interest, 
+including termination of the Agreement, as circumstances may warrant. Such rights are without 
+
+Page 35 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+prejudice to any other remedies or rights of action which have accrued or which may subsequently 
+accrue to the Client in connection with the Agreement.  
+
+9.4 The Consultant shall also share its conflict of interest policy that is applicable when handling 
+such assignments as contemplated under this Agreement.   
+
+9.5 For the purposes of this Clause, “conflict of interest” means any situation in which a party has 
+interests or relationships that could, or could be deemed to, improperly influence that party’s 
+performance of official duties or responsibilities, contractual obligations, or compliance with 
+applicable laws and regulations.  
+
+10. USE OF DOCUMENTS; DOCUMENTS TO BE THE PROPERTY OF THE CLIENT  
+
+10.1 All products, documents, materials, and information submitted to the Client, and all relevant 
+data and supporting materials compiled in performing the Services, shall be the property of the 
+Client, shall be used solely for purposes related to the Agreement, shall be made available for use 
+or inspection by the Client at reasonable times and in reasonable places, shall be treated as 
+confidential, and shall be delivered only to the Client’s Designated Officer on completion of 
+Services under the Agreement.  
+
+10.2 The Client shall be entitled to all intellectual property and other proprietary rights including, 
+but not limited to, patents, copyrights, and trademarks, with regard to processes, inventions, ideas, 
+know-how, or products, documents and other materials which the Consultant has developed for the 
+Client under the Agreement and which bear a direct relation to or are produced or prepared or 
+collected in consequence of, or during the course of, the performance of the Agreement. The 
+Consultant acknowledges and agrees that such products, documents and other materials constitute 
+works made for hire for the Client.  
+
+10.3 To the extent that any such intellectual property or other proprietary rights consist of any 
+intellectual property or other proprietary rights of the Consultant: (i) that pre-existed the 
+performance by the Consultant of its obligations under the Agreement, or (ii) that the Consultant 
+may develop or acquire, or may have developed or acquired, independently of the performance of 
+its obligations under the Agreement, the Client does not and shall not claim any ownership interest 
+thereto, and the Consultant grants to the Client a perpetual license to use such intellectual property 
+or other proprietary rights solely for the purposes of and in accordance with the requirements of the 
+Agreement.  
+
+10.4 At the request of the Client, the Consultant shall take all necessary steps, execute all necessary 
+documents and generally assist in securing such proprietary rights and transferring or licensing 
+them to the Client in compliance with the requirements of the applicable law and of the Agreement.  
+
+11. PUBLICITY, AND USE OF THE NAME, TRADEMARK AND LOGO  
+
+11.1 Within fifteen (15) days of the execution of the Agreement the Consultant and the Client shall 
+mutually determine, in writing, matters related to publicity, use of name, trademark and logo on 
+work products and deliverables produced pursuant to the Services provided under this Agreement.  
+
+Page 36 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+12. TERMINATION BY CLIENT  
+
+Termination for convenience; change of circumstances  
+
+12.1 The Client may terminate the Agreement in whole or in part at any time by submitting not less 
+than thirty (30) days written Notice of such termination to the Consultant if the Client determines, 
+in its sole and absolute discretion, that a termination is in its best interest or if the mandate, policies 
+and/or funding of the Client applicable to the performance of the Agreement is curtailed, changed 
+or terminated. Such Notice shall state that termination is for the Client’s convenience, the extent to 
+which performance of Services is terminated, and the termination date. Unless otherwise instructed 
+by the Client, the Consultant shall stop work immediately on receipt of Notice and follow the 
+instructions of the Client.  
+
+12.2 In the event of a termination for convenience, the Consultant shall be entitled to be paid for 
+the Services satisfactorily and properly performed by the Consultant prior to the effective date of 
+termination, provided however that the Client may advise the Consultant to conclude any ongoing 
+assignments being performed by the Consultant.    
+
+Termination for Force Majeure  
+
+12.3 The Client may terminate the Agreement, by not less than thirty (30) days’ written Notice of 
+termination to the Consultant if, as a result of Force Majeure, the Consultant is unable to perform a 
+material portion of the Services for a continuous period of not less than ninety (90) days. In the 
+event of termination for Force Majeure, the Consultant shall be entitled to be paid for Services 
+satisfactorily and properly performed prior to the effective date of termination in accordance with 
+the Agreement.  
+
+12.4 The Client may, at any time before the effective date of termination, decide to withdraw the 
+Notice to terminate issued by the Client pursuant to Clause 12.3 or issued by the Consultant 
+pursuant to Clause 13.1 and notify thereof in writing to the Consultant if the event(s) of Force 
+Majeure ceases to exist and the Consultant is able to resume its full performance under the 
+Agreement  in which case the Consultant shall continue to perform its obligations under the 
+Agreement  starting from the date determined by the Client.  
+
+Termination for Default  
+
+12.5 The Client may terminate the Agreement immediately by serving a written Notice to the 
+Consultant specifying the reasons for the termination if:  
+
+(a)  the Consultant undertakes legal proceedings to dissolve or wind up its business, or be declared 
+
+bankrupt and/or insolvent;  
+
+(b)  a creditor or encumbrancer attaches or takes possession of, or a distress, execution, 
+
+sequestration or other such process is levied or enforced on or sued against, the whole or any 
+
+Page 37 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+part of the Consultant’s assets and such attachment or process is not discharged within fifteen 
+(15) days;  
+
+(c)  there is a change of ownership or control with respect to the Consultant and the Parties cannot 
+
+agree to an alternative arrangement in terms of Clause 5.2 of the Agreement;  
+
+(d)  the Consultant otherwise loses legal capacity to Agreement;  
+
+(e)  the Consultant:  
+
+i.  breaches a material provision of the Agreement and fails to remedy such breach within 
+
+thirty (30) days; or  
+
+ii.  materially breaches any other provision of the Agreement twice or more time in a 
+
+continuous six (6) month period and, in each case, fails to remedy the relevant breach 
+within 30 days, and/or  
+
+iii.  breaches any representations or warranties made under this Agreement and, in either 
+case, if such breach is capable of remedy, fails to remedy such breach within a 
+reasonable time period notified to it by the Client; or  
+
+(f)  the Client determines that the Consultant or a Consultant-Related Person has committed or 
+engaged in unlawful acts with respect to performance of Services under Agreement.  
+
+13. TERMINATION BY THE CONSULTANT  
+
+13.1 The Consultant may terminate the Agreement by giving not less than thirty (30) days’ written Notice 
+
+to the Client:  
+
+(a)  if the Client fails to pay any undisputed number of monies due to the Consultant pursuant to 
+the Agreement, within ninety (90) days of receiving written Notice from the Consultant that 
+such payment is overdue; or  
+
+(b) if, as the result of Force Majeure, the Consultant is unable to perform a material portion of the 
+
+Services for a period of not less than ninety (90) days.  
+
+14. INDEMNIFICATION  
+
+14.1 To the fullest extent permitted by law, the Consultant agrees to indemnify and hold harmless 
+the Client from and against all suits, proceedings, claims, demands, losses and liability of any kind 
+or nature brought by any third party against the Client, including, but not limited to, all litigation 
+costs and expenses, attorney’s fees, settlement payments and damages, based on, arising from, or 
+relating to:  
+
+(a)  allegations or claims that the possession of or use by the Client of any patented device, any 
+copyrighted  material,  or  any  other  goods,  property  or  services  provided  or  licensed  to  the 
+
+Page 38 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Client under the terms of the Agreement , in whole or in part, separately or in a combination 
+contemplated by the Consultant’s published specifications therefor, or otherwise specifically 
+approved by the Consultant, constitutes an infringement of any patent, copyright, trademark, 
+or other intellectual property right of any third party; or  
+
+(b)  any willful misconduct,  action, omission or gross  negligence of the Consultant,  or anyone 
+directly or indirectly employed by them in the performance of the Agreement, which give rise 
+to legal liability to anyone not a party to the Agreement, including, without limitation, claims 
+and liability in the nature of a claim for workers’ compensation;  
+
+provided  that,  the  liability  of  the  Consultant,  its  employees,  associated  consultants  and 
+subcontractors, and all persons and entities affiliated or associated with the Consultant for losses, 
+damages,  liabilities,  suits,  and  claims,  regardless  of  the  form  of  action  and  the  person  or  entity 
+bringing such action, arising out of or in connection with this Agreement, shall not exceed, in the 
+aggregate, the total amount of the fees paid by the Client in relation to this Agreement or any relevant 
+work order to the Consultant for the Services.   
+
+14.2 The Client shall inform the Consultant of any such suits, proceedings, claims, demands, losses and 
+
+liability within a reasonable period of time after having received actual notice thereof.  
+
+14.3 The obligations set out herein shall survive the expiration or termination of the Agreement.  
+
+15. FORCE MAJEURE  
+
+15.1 Neither Party shall be liable to the other for any Delay in performing or failure to perform its 
+obligations under the Agreement if the Delay or failure is caused by Force Majeure.   
+
+15.2 In the event of Force Majeure, the affected Party shall promptly notify the other Party in writing 
+of  the  relevant  circumstances.  Such  notification  shall  include  the  nature  of  the  event  of  Force 
+Majeure, the obligations the performance of which has been prevented as a result of the event of 
+Force Majeure, the likely duration of the event of Force Majeure and the steps that the affected Party 
+is taking to limit the effect of and to bring an end to the event of Force Majeure. Unless otherwise 
+directed by the Client in writing, the Consultant shall continue to perform its obligations under the 
+Agreement to the extent possible notwithstanding the existence of an event of Force Majeure and 
+undertake reasonable alternative means to  perform  the obligations affected by the event  of Force 
+Majeure.  The  affected  Party  shall  promptly  notify  the  other  Party  as  soon  as  the  event  of  Force 
+Majeure ceases to exist and the affected Party is able to resume the performance of its obligations 
+under the Agreement.  
+
+15.3 Force Majeure shall not include (i) any event which is caused by the negligence or intentional 
+action of a Party or such Party’s experts, subcontractors or agents or employees, nor (ii) any event 
+which a diligent Party could reasonably have been expected to both take into account at the time of 
+the  conclusion  of  this  Agreement,  and  avoid  or  overcome  in  the  carrying  out  of  its  obligations 
+hereunder.  
+
+Page 39 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+16. RELATIONSHIP BETWEEN THE PARTIES  
+
+16.1 The Consultant is an independent contractor of the Client. The Agreement shall not create, nor 
+be deemed to create, the relationship of employer and employee or principal and agent between the 
+Client and the Consultant or the Consultant's employees, agents or any other persons engaged by the 
+Consultant  to  perform  its  obligations  under  the  Agreement.  Accordingly,  neither  Party  shall  be 
+authorized to act in the name or on behalf of, or otherwise bind the other Party, save as expressly 
+permitted by the terms of the Agreement.  
+
+17. GOVERNING LAW AND LANGUAGE  
+
+17.1 This Agreement shall be governed and interpreted according to the laws of Pakistan without 
+regard to conflict of laws principles.  
+
+17.2  The  Agreement  is  in  English,  which shall  be  the  binding  and  controlling  language  on  matters 
+relating  to  the  meaning  and/or  interpretation  of  the  Agreement,  unless  otherwise  specified  in  the 
+Agreement.  Notices  and  other  correspondences  pertaining  to  the  Agreement  that  the  Parties  may 
+exchange shall likewise be in English.  
+
+18. SETTLEMENT OF DISPUTES  
+
+18.1 The Client and the Consultant shall exert every effort to amicably resolve by mutual consultation 
+disputes arising between them in connection with or as a result of the Agreement within thirty (30) 
+days of either Party’s Notice of the dispute to the other. During this period, the Designated Officer 
+and the Consultant’s personnel directly involved should first attempt in good faith to settle the dispute 
+among  themselves  before  escalating  the  matter  to  senior  Client  management  and  their  respective 
+counterpart/s within the Consultant.  
+
+18.2  Should  efforts  to  resolve  disputes  amicably  under  the  preceding  Clause  fail,  any  dispute, 
+controversy  or  claim  arising  out  or  relating  to  the  Agreement,  including  the  existence,  validity, 
+interpretation or breach thereof or any dispute regarding non-contractual obligations arising out of 
+or relating to it, shall be referred to and resolved through arbitration by a sole arbitrator under the 
+Arbitration Act, 1940 or the applicable arbitration law in Pakistan at the time being in force.  
+
+18.3 Pending resolution of any such disputes, the Parties shall continue to perform their respective 
+obligations under the Agreement or otherwise adopt provisional measures to ensure uninterrupted 
+delivery of the Service.  
+
+19. AUTHORIZED REPRESENTATIVE; NOTICES  
+
+19.1  Each  Party  shall  designate  an  Authorized  Representative  that  shall  coordinate  between  the 
+Client and the Consultant with respect to the implementation of this Agreement.  
+
+Page 40 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+19.2 For individual workstreams under the Scope of Work, a Designated Officer may be specified 
+by  the  Client  at  the  inception  of  the  assignment  who  shall  coordinate  all  matters  related  to  the 
+performance of work.   
+
+19.3 All Notices, information or other communications to be given by the Consultant to the Client 
+under  the  Agreement  shall  be  given  to  the  Client’s  Authorized  Representative  (or,  in  relation  to 
+particular workstreams, to Designated Officers), and any action required or permitted to be taken, 
+and any document required or permitted to be executed, under the Agreement by the Consultant shall 
+be taken or executed by the Consultant’s Authorized Representative.  
+
+19.4 All Notices, information or other communications to be given by the Client to the Consultant 
+under the Agreement shall be given to the Consultant’s Authorized Representative, and any action 
+required or permitted to be taken, and any document required or permitted to be executed, under the 
+Agreement by the Client shall be taken or executed by the Client’s Authorized Representative.  
+
+19.5 Any Notices, information or other communications required under the Agreement shall be in 
+writing and shall be delivered in person, by registered or certified mail, or through electronic mail.  
+
+19.6 The Consultant shall not take any order, directive, or instruction from unauthorized Client staff. 
+Questions relating to the authority of orders, directives or instructions given in the name of the Client 
+should be directed to the Client’s Authorized Representative.   
+
+Authorized Representatives of Client:  
+Name  
+phone no  
+address 
+
+Authorized Representative of the Consultant:  
+Attention:  
+Telephone:  
+E-mail:  
+
+19.7 Notices delivered in person shall be effective when delivered to the address specified above 
+and personally received by the addressed Party’s Authorized Representative. Notices sent by 
+registered or certified mail shall be effective on the date of delivery to the address specified 
+hereunder, as shown in the return card for registered mail or the postmaster’s certification. 
+Otherwise, Notices sent through electronic mails shall be effective upon successful transmission to 
+the receiving Party.  
+
+19.8 Either Party may designate a new Authorized Representative by serving written Notice on the 
+other. The designation shall take effect immediately upon receipt of the Notice.  
+
+20. TRANSFER AND SUBCONTRACTING  
+
+Page 41 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+  
+20.1 The Consultant shall not assign or transfer the Agreement or specific rights or obligations 
+under it without the Client’s prior written consent.  
+
+20.2 The Consultant shall obtain the Client’s written consent prior to entering into a subcontract for 
+engaging a subcontractor for the performance of any part of the Services. Where the Client has 
+consented to subcontracting, copies of each sub-contract shall, at the request of the Client, be sent 
+by the Consultant to the Client as soon as reasonably practicable. Notwithstanding the foregoing, 
+the Consultant shall be solely liable to the Client for the work of the subcontractor.  
+
+20.3 The Client shall be entitled, in its sole discretion, to review the qualifications of any 
+subcontractor and to reject any proposed subcontractor that the Client reasonably considers is not 
+qualified to perform obligations under the Agreement. Any rejection or request for removal of a 
+subcontractor by the Client shall not, in and of itself, entitle the Consultant to claim any Delays in 
+the performance, or to assert any excuses f or the non-performance, of any of its obligations under 
+the Agreement.  
+
+20.4 To the extent that the Client has consented to subcontracting of all or part of the Services, the 
+Consultant agrees that the obligations of the Consultant under the following Clauses, as applicable, 
+shall be specifically incorporated into all subcontracts of any tier; (a) Conflict of Interest; (b) 
+Confidential Information; (c) Audits and Investigations; and (d) Consultant’s Undertaking. For 
+purposes of this Agreement the term “subcontract” shall mean any Agreement by the Consultant 
+with any Consultant-Related Persons to perform a portion of the Services, as well as any 
+Agreements between a subcontractor and its lower tier Consultants, vendors, suppliers, consultants, 
+or other entities or persons.  
+
+21. AMENDMENTS  
+
+21.1 The Client and the Consultant shall not vary or modify the terms and conditions of the 
+Agreement except by prior written amendment duly executed by the Parties.  
+
+21.2 For the avoidance of doubt, the Consultant shall not be entitled to request price adjustments as 
+a result of an increase in the Consultant’s actual or contingent costs or on any other similar 
+grounds.  
+
+21.3 If the Agreement shall be extended for additional periods in accordance with the terms and 
+conditions of the Agreement, the terms and conditions applicable to any such extended term of the 
+Agreement shall be the same terms and conditions as set forth in the Agreement.  
+
+22.  TAX  
+
+22.1 Payments shall be made to the Consultant after compulsory deduction of all applicable taxes. 
+The Consultant shall be responsible to pay any taxes, duties, fees or other impositions which may 
+be levied on or in connection with the Agreement and performance of the Services in Pakistan or in 
+any other country, the amount of which is deemed to have been included in the payment duly 
+payable under the Agreement. The Client shall not be liable to reimburse any such taxes.  
+
+Page 42 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+23. INSURANCE  
+
+23.1 The Consultant shall take out and maintain at all times during the term of the Agreement and 
+at its own cost appropriate insurance coverage, which coverage shall include such insurances as 
+may be required by the law of the country of incorporation of the Consultant and/or the laws of the 
+country in which the Services are to be performed.    
+
+24. AUDITS AND INVESTIGATIONS  
+
+24.1 The Client may conduct investigations relating to any aspect of the Agreement, the obligations 
+performed under the Agreement, and the operations of the Consultant generally relating to non-
+performance of the Agreement at any time during the Agreement term and for a period of three (3) 
+years following the expiry or early termination of the Agreement.  
+
+24.2 The Consultant shall keep and maintain for at least three (3) years after the expiry or early 
+termination of the Agreement, or as long a period as may be agreed between the Parties, accurate 
+records of the Agreement including the Services supplied under it and all payments made by the 
+Client under the Agreement. The Consultant shall provide its full and timely cooperation with any 
+such inspections, post-payment audits or investigations. Such cooperation shall include, but shall 
+not be limited to, the Consultant’s obligation to make available its personnel and any relevant 
+documentation for such purposes at reasonable times and on reasonable conditions and to grant to 
+the Client access to the Consultant’s premises at reasonable times and on reasonable conditions in 
+connection with such access to the Consultant’s personnel and relevant documentation. The 
+Consultant shall require its agents, including, but not limited to, the Consultant’s attorneys, 
+accountants or other advisers, to reasonably cooperate with any inspections, post-payment audits or 
+investigations carried out by the Client hereunder.  
+
+25. SUPERSESSION AND SEPARABILITY  
+
+25.1 The Agreement supersedes all prior written or verbal Agreements between the Client and the 
+Consultant and contains the reciprocal obligations of the Parties pertaining to or arising out of the 
+delivery of the Service. However, this shall not excuse any Party from liability arising from fraud 
+or fraudulent misrepresentation.  
+
+25.2 Should any Clause, subparagraph or part of the Agreement be held by a court of competent 
+jurisdiction to be invalid, unenforceable, or void, the decision shall not affect the validity of the 
+entire Agreement or of those parts that are not so declared or otherwise remain capable of partial or 
+separable performance.  
+
+26. WAIVER  
+
+26.1 The failure of either Party to insist upon strict performance of any provision of the 
+Agreement; or the failure of either Party to exercise, or any Delay in exercising, any right or 
+remedy under the Agreement shall not constitute a waiver of that right or remedy nor diminish the 
+obligations established by the Agreement.  
+
+Page 43 of 49 
+
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+26.2 A waiver of any right or remedy arising from a breach of the Agreement shall not constitute a 
+waiver of any right or remedy arising from any other or subsequent breach of the Agreement.  
+
+27. COUNTERPART  
+
+27.1 The Agreement may be executed in counterparts, each of which when executed and delivered 
+shall constitute an original, but all counterparts together shall constitute one and the same 
+instrument.  
+
+IN WITNESS WHEREOF the Parties hereto, acting through their representatives thereunto duly 
+authorized, have caused this Agreement to be signed in their respective names as of the date below 
+written and for this Agreement to be executed with effect from the date above written.  
+
+For and on behalf of [.]  
+Signed by:  
+
+For and on behalf of [.]  
+Signed by:  
+
+Name:  
+Title/Position  
+
+  Date:   
+
+Name:  
+Title/Position:  
+
+  Date:  
+
+  Signature:  
+  Witnesses Name:   
+Identification No.:   
+
+Signature:  
+Witnesses Name:   
+Identification No.:  
+
+  Signature:  
+  Witnesses Name:   
+Identification No.:  
+
+Signature:  
+Witnesses Name:   
+Identification No.:  
+
+Page 44 of 49 
+
+  
+  
+  
+ 
+  
+  
+     
+  
+ 
+  
+  
+  
+  
+ 
+  
+  
+  
+ 
+  
+  
+  
+  
+  
+  
+ 
+  
+  
+  
+ 
+ 
+  
+Schedule A: Terms of Reference  
+
+Page 45 of 49 
+
+  
+  
+  
+ 
+  
+ 
+  
+  
+  
+  
+  
+  
+Schedule B: Payment Terms  
+
+Sr.No 
+
+Deliverable / Milestone 
+
+Payment Schedule  
+Timeline 
+
+Amount 
+
+1 
+
+Detailed  project  plan  including 
+methodology, 
+timeline, 
+milestone chart (Gantt), resource 
+allocation. 
+
+01  Week  after 
+commencement 
+of 
+Assignment. 
+
+the 
+
+upon 
+
+approval 
+
+of 
+20% 
+inspection  report  methodology, 
+implementation  plan  (including 
+milestone 
+timelines), 
+resource  & 
+identification, 
+responsibility matrix. 
+
+2 
+
+3 
+
+4- International Collaboration 
+(IC) Management System 
+
+2- Inventory Management 
+System 
+3- PSDP Management System 
+
+Submission, Presentation & 
+Approval of Draft: 
+1- Vehicle Management System  03 Weeks after 
+commencement 
+of the 
+Assignment  
+05 Weeks after 
+commencement 
+of the 
+Assignment  
+06 Weeks after 
+commencement 
+of the 
+Assignment  
+08 Weeks after 
+commencement 
+of the 
+Assignment  
+
+6- Pakistan Agri Trade Portal 
+with Dashboards 
+
+5- Knowledge Management 
+System (KMS) 
+
+40% upon approval of 6 digital 
+systems by the ministry. 
+
+Training, Deployment, Go-
+Live, Commissioning & UAT 
+Sign off : 
+1- Vehicle Management System 
+2- Inventory Management 
+System 
+3- PSDP Management System 
+4- International Collaboration 
+(IC) Management System 
+5- Pakistan Agri Trade Portal 
+with Dashboards 
+6- Knowledge Management 
+System (KMS) 
+
+12  Weeks  after 
+commencement 
+of the Assignment 
+
+40% upon approval of 
+successful deployment, Test 
+Running, training and 
+troubleshooting of these 6 
+digital systems of the ministry 
+
+Page 46 of 49 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Schedule C: Key Personnel  
+
+Role 
+Project 
+Manager 
+
+Business 
+Analyst 
+
+in  Project 
+
+Education 
+Master’s 
+Management, 
+Computer  Science,  or 
+related field 
+
+Bachelor’s  /  Master’s 
+in CS / IT or relevant 
+field  
+
+Data Scientist 
+/ Engineer  
+
+Bachelor’s/Master’s 
+in  Computer  Science, 
+Data  Engineering,  or 
+Software 
+Engineering, 
+Science. 
+
+Data 
+
+Full Stack 
+Developers 
+
+Bachelor’s 
+in 
+Computer  Science  or 
+Software Engineering 
+
+Experience 
+8–10 years in IT project 
+management, preferably with 
+large-scale government/ 
+international or agriculture-
+related projects. 
+08 years of experience in 
+Software / Web Development 
+with minimum at least 03 
+years of proven experience as 
+Business Analyst / 
+Requirement Engineer. 
+Experience in Agri 
+Commodity  
+Trading(National and 
+International). 
+5+  years  in  ETL  pipelines, 
+API integration, and database 
+(PostgreSQL, 
+management 
+MySQL, MongoDB). 
+
+in 
+
+years 
+
+Angular), 
+
+4–6 
+statistical 
+predictive 
+modeling, 
+analytics,  and  visualization 
+(Python,  R,  Power  BI, 
+Tableau, or Dash). 
+6+  years  of  demonstrated 
+proficiency 
+front-end 
+in 
+technologies  (HTML,  CSS, 
+JavaScript,  and  frameworks 
+such  as  Django/Flask,  React, 
+or 
+back-end 
+development  (PHP,  Python, 
+Java,  Node.js),  REST/Fast 
+database 
+APIs, 
+technologies 
+(SQL/NoSQL, 
+e.g.,  MySQL,  MongoDB). 
+Candidates must also possess 
+strong  knowledge  of  version 
+control  systems  (Git),  cloud 
+(AWS,  Azure), 
+platforms 
+authentication  mechanisms, 
+and 
+architecture 
+design.  Experience  with 
+server-side 
+microservices, 
+
+secure 
+
+and 
+
+Certification 
+PMP,  PRINCE  2,  or 
+Agile/Scrum  Master 
+certification 
+preferred 
+
+of 
+
+Knowledge 
+agriculture/trade 
+datasets,  Designing 
+interactive 
+Dashboard. 
+Experience 
+in 
+forecasting  and  trend 
+analysis. 
+
+. 
+
+Page 47 of 49 
+
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+architecture,  and  cloud-based 
+is 
+backend 
+preferred. 
+
+development 
+
+Cloud/DevOps 
+Engineer  
+
+Bachelor’s 
+in 
+Computer  Science  or 
+Information Systems 
+
+4–6  years  in  cloud  hosting 
+(AWS,  Azure,  GCP),  CI/CD, 
+Docker/Kubernetes. 
+
+Cloud 
+certification 
+(AWS,  Azure,  or 
+GCP) preferred 
+
+Page 48 of 49 
+
+ 
+ 
+Part VI. INTEGRITY PACT 
+DECLARATION OF FEES, COMMISSION AND BROKERAGE ETC.  
+PAYABLE BY THE SUPPLIERS OF GOODS, SERVICES & WORKS IN 
+CONTRACTS WORTH RS. 10.00 MILLION OR MORE  
+
+Contract No.________________ Dated __________________  
+Contract Value: ________________  
+Contract Title: _________________  
+
+………………………………… [name of Supplier] hereby declares that it has not obtained or 
+induced the procurement of any contract, right, interest, privilege or other obligation or benefit 
+from Government of Pakistan (GoP) or any administrative subdivision or agency thereof or any 
+other entity owned or controlled by GoP through any corrupt business practice.  
+
+ Without limiting the generality of the foregoing, [name of Supplier] represents and warrants that 
+it has fully declared the brokerage, commission, fees etc. paid or payable to anyone and not given 
+or agreed to give and shall not give or agree to give to anyone within or outside Pakistan either 
+directly or indirectly through any natural or juridical person, including its affiliate, agent, 
+associate, broker, consultant, director, promoter, shareholder, sponsor or subsidiary, any 
+commission, gratification, bribe, finder’s fee or kickback, whether described as consultation fee 
+or otherwise, with the object of obtaining or inducing the procurement of a contract, right, 
+interest, privilege or other obligation or benefit in whatsoever form from GoP,  except that which 
+has been expressly declared pursuant hereto.  
+
+ [name of Supplier] certifies that it has made and will make full disclosure of all agreements and 
+arrangements with all persons in respect of or related to the transaction with GoP and has not 
+taken any action or will not take any action to circumvent the above declaration, representation 
+or warranty.  
+
+ [name of Supplier] accepts full responsibility and strict liability for making any false declaration, 
+not making full disclosure, misrepresenting facts or taking any action likely to defeat the purpose 
+of this declaration, representation and warranty. It agrees that any contract, right, interest, 
+privilege or other obligation or benefit obtained or procured as aforesaid shall, without prejudice 
+to any other rights and remedies available to GoP under any law, contract or other instrument, be 
+voidable at the option of GoP.  
+
+ Notwithstanding any rights and remedies exercised by GoP in this regard, [name of Supplier] 
+agrees to indemnify GoP for any loss or damage incurred by it on account of its corrupt business 
+practices and further pay compensation to GoP in an amount equivalent to ten time the sum of 
+any commission, gratification, bribe, finder’s fee or kickback given by [name of Supplier] as 
+aforesaid for the purpose of obtaining or inducing the procurement of any contract, right, interest, 
+privilege or other obligation or benefit in whatsoever form from GoP.  
+
+Name of Client: ………………    Name of Service Provider: …………  
+
+Signature: ……………………  
+
+Signature: 
+
+…………………………   
+
+Page 49 of 49 
+
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+   
+  
+  
+
