@@ -87,35 +87,35 @@ Based on our analysis of the RFP, we understand the following key requirements:
 ## 3. Technical Solution Architecture
 
 ### 3.1 Overall System Architecture
-Our solution follows a modern, scalable architecture designed for government cloud deployment:
+Our solution follows a modern, scalable architecture leveraging the cost-effective and powerful Laravel ecosystem. It is designed for optimal performance on government cloud infrastructure:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                    MNFSR IT System                          │
 │              (Government Cloud Deployment)                   │
 ├─────────────────────────────────────────────────────────────┤
-│  Frontend Layer: Angular/React PWA Applications            │
-│  API Gateway: .NET Core with Authentication & Authorization │
-│  Business Logic: Microservices Architecture                 │
-│  Data Layer: SQL Server with Power BI Analytics            │
+│  Frontend Layer: Vue.js 3 SPA (Single Page Application)     │
+│  API Gateway: Laravel 10 REST API with Sanctum Auth         │
+│  Business Logic: Modular Laravel Application                │
+│  Data Layer: MySQL 8.0 with Eloquent ORM                   │
 │  Integration: External APIs (FAO, UN Comtrade, ITC)        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
 ### 3.2 Technology Stack
-- **Backend**: .NET Core 8.0, C# 12.0
-- **Frontend**: Angular 17, React 18, Progressive Web App (PWA)
-- **Database**: SQL Server 2022 with Always On Availability Groups
-- **Analytics**: Power BI Premium with embedded analytics
-- **Search**: Elasticsearch for Knowledge Management
-- **Cloud**: Government Cloud with Kubernetes orchestration
-- **Security**: Azure Active Directory, Multi-Factor Authentication
+- **Backend**: Laravel 10 (PHP 8.2)
+- **Frontend**: Vue.js 3 with Vite
+- **Database**: MySQL 8.0
+- **Analytics**: Integrated reporting dashboards within the application
+- **Search**: Laravel Scout with database driver for Knowledge Management
+- **Cloud**: Government Cloud with Docker containerization
+- **Security**: Laravel Sanctum, Role-Based Access Control, SSL
 
 ### 3.3 Security Architecture
-- **Authentication**: OpenID Connect with MFA
-- **Authorization**: Role-Based Access Control (RBAC)
+- **Authentication**: Laravel Sanctum for API and session authentication
+- **Authorization**: Role-Based Access Control (RBAC) via Laravel Gates/Policies
 - **Data Encryption**: AES-256 at rest, TLS 1.3 in transit
-- **Network Security**: Web Application Firewall (WAF), API Gateway
+- **Network Security**: Web Application Firewall (WAF), Middleware for rate limiting
 - **Audit Trail**: Comprehensive logging and monitoring
 
 ---
@@ -131,10 +131,10 @@ Our solution follows a modern, scalable architecture designed for government clo
 - Virtual consultation services
 
 **Technical Implementation:**
-- Angular PWA with offline capabilities
-- .NET Core API with external data integration
-- Real-time data processing with message queues
-- Power BI embedded analytics
+- Vue.js 3 frontend with responsive components
+- Laravel API for data processing and external integrations
+- Real-time updates using Laravel Echo and WebSockets
+- Custom-built analytics dashboards
 
 ### 4.2 Knowledge Management System (KMS)
 **Key Features:**
@@ -145,10 +145,10 @@ Our solution follows a modern, scalable architecture designed for government clo
 - Automated alerts and notifications
 
 **Technical Implementation:**
-- React-based document management interface
-- Elasticsearch for full-text search
-- Azure Cognitive Services for AI features
-- Document version control and collaboration
+- Vue.js interface for document management
+- Laravel Scout for efficient full-text search
+- Integration with NLP libraries for AI-powered tagging
+- Version control and collaboration features using Laravel's model observers
 
 ### 4.3 Vehicle Management System (VMS)
 **Key Features:**
@@ -159,10 +159,10 @@ Our solution follows a modern, scalable architecture designed for government clo
 - Cost analysis and reporting
 
 **Technical Implementation:**
-- .NET Core API with SQL Server backend
-- Mobile app for field operations
-- Integration with financial systems
-- Automated maintenance alerts
+- Laravel API with MySQL backend
+- Mobile-first Vue.js components for field operations
+- Integration with financial modules via scheduled jobs
+- Automated maintenance alerts using Laravel's task scheduling
 
 ### 4.4 Inventory Management System (IMS)
 **Key Features:**
@@ -173,10 +173,10 @@ Our solution follows a modern, scalable architecture designed for government clo
 - End-to-end tracking
 
 **Technical Implementation:**
-- Workflow engine for approval processes
-- Barcode/QR code integration
-- Real-time inventory updates
-- Integration with procurement systems
+- Custom-built workflow engine within Laravel
+- Barcode/QR code generation and scanning support
+- Real-time inventory updates using database transactions
+- Integration with procurement modules
 
 ### 4.5 PSDP Management System
 **Key Features:**
@@ -187,10 +187,10 @@ Our solution follows a modern, scalable architecture designed for government clo
 - Automated reporting
 
 **Technical Implementation:**
-- Project management workflows
-- Financial integration and reporting
-- Document management integration
-- Progress tracking dashboards
+- Laravel-based project management workflows
+- Financial integration and reporting features
+- Integration with the KMS for document management
+- Vue.js dashboards for progress tracking
 
 ### 4.6 International Collaboration (IC) Management System
 **Key Features:**
@@ -201,10 +201,10 @@ Our solution follows a modern, scalable architecture designed for government clo
 - Document version control
 
 **Technical Implementation:**
-- Agreement lifecycle workflows
-- Partner country database
-- Automated notification system
-- Integration with document management
+- Laravel workflows for agreement lifecycle management
+- Partner country database with relationship tracking
+- Automated notifications using Laravel's notification system
+- Integration with the KMS for document version control
 
 ---
 
@@ -318,29 +318,31 @@ Project Director (1)
 ## 10. Financial Proposal
 
 ### 10.1 Cost Breakdown
-| Module | Development Cost (PKR) | Testing Cost (PKR) | Total Cost (PKR) |
-|--------|----------------------|-------------------|------------------|
-| PATP | 8,500,000 | 1,500,000 | 10,000,000 |
-| KMS | 6,000,000 | 1,000,000 | 7,000,000 |
-| VMS | 4,000,000 | 800,000 | 4,800,000 |
-| IMS | 5,500,000 | 900,000 | 6,400,000 |
-| PSDP | 6,500,000 | 1,100,000 | 7,600,000 |
-| IC | 4,500,000 | 700,000 | 5,200,000 |
-| **Integration & Testing** | 3,000,000 | 1,000,000 | 4,000,000 |
-| **Training & Documentation** | 2,000,000 | - | 2,000,000 |
-| **Project Management** | 1,500,000 | - | 1,500,000 |
-| **Total** | **41,500,000** | **7,000,000** | **48,500,000** |
+Our proposed solution using the Laravel, Vue.js, and MySQL stack offers significant cost savings of **PKR 8.5 Million (17.5%)** compared to the .NET alternative, without compromising on quality or features.
+
+| Module | Total Cost (PKR) |
+|--------|------------------|
+| Pakistan Agri Trade Portal (PATP) | 8,500,000 |
+| Knowledge Management System (KMS) | 6,000,000 |
+| Vehicle Management System (VMS) | 4,000,000 |
+| Inventory Management System (IMS) | 5,500,000 |
+| PSDP Management System | 6,500,000 |
+| International Collaboration (IC) | 4,500,000 |
+| **Integration & Common Services** | 3,000,000 |
+| **Training & Documentation** | 1,000,000 |
+| **Project Management** | 1,000,000 |
+| **Total** | **40,000,000** |
 
 ### 10.2 Payment Schedule
-- **Mobilization**: 20% (PKR 9,700,000) - Upon contract signing
-- **Phase 1 Completion**: 30% (PKR 14,550,000) - After 4 weeks
-- **Phase 2 Completion**: 30% (PKR 14,550,000) - After 8 weeks
-- **Final Delivery**: 20% (PKR 9,700,000) - Upon successful deployment
+- **Mobilization**: 20% (PKR 8,000,000) - Upon contract signing
+- **Phase 1 Completion**: 30% (PKR 12,000,000) - After 4 weeks
+- **Phase 2 Completion**: 30% (PKR 12,000,000) - After 8 weeks
+- **Final Delivery**: 20% (PKR 8,000,000) - Upon successful deployment
 
 ### 10.3 Additional Costs
-- **Third-party Licenses**: Included in project cost
+- **Third-party Licenses**: Not applicable (open-source stack)
 - **Cloud Infrastructure**: Included for 12 months
-- **Support & Maintenance**: PKR 4,000,000 per year (post-warranty)
+- **Support & Maintenance**: PKR 3,500,000 per year (post-warranty)
 
 ---
 
