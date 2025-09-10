@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Architecture - SOFT PYRAMID | MNFSR Proposal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'pakistan-green': '#01411C',
+                        'pakistan-light': '#0F5132',
+                        'soft-blue': '#0EA5E9',
+                        'soft-gray': '#64748B'
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-50">
+    <!-- Navigation -->
+    <nav class="bg-white shadow-lg sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center space-x-4">
+                    <a href="index.html" class="text-2xl font-bold text-pakistan-green">SOFT PYRAMID</a>
+                </div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="index.html" class="text-gray-700 hover:text-pakistan-green transition">Home</a>
+                    <a href="company.html" class="text-gray-700 hover:text-pakistan-green transition">Company</a>
+                    <a href="technical.html" class="text-pakistan-green font-semibold">Solution</a>
+                    <a href="modules.html" class="text-gray-700 hover:text-pakistan-green transition">Modules</a>
+                    <a href="implementation.html" class="text-gray-700 hover:text-pakistan-green transition">Implementation</a>
+                    <a href="financial.html" class="text-gray-700 hover:text-pakistan-green transition">Financial</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="bg-gradient-to-r from-pakistan-green to-pakistan-light text-white py-16">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <h1 class="text-4xl font-bold mb-6">Technical Architecture</h1>
+            <p class="text-xl max-w-3xl mx-auto">
+                Modern, Scalable, and Secure Technology Stack for MNFSR Digital Transformation
+            </p>
+        </div>
+    </section>
+
+    <!-- Technology Stack Overview -->
+    <section class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Technology Stack</h2>
+                <p class="text-gray-600 max-w-2xl mx-auto">
+                    We've carefully selected Laravel + Vue.js + MySQL for optimal performance, cost-effectiveness, and rapid development.
+                </p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="bg-gradient-to-br from-orange-500 to-red-500 text-white p-8 rounded-lg">
+                    <div class="text-4xl mb-4">🚀</div>
+                    <h3 class="text-2xl font-bold mb-4">Laravel 10.x</h3>
+                    <p class="text-lg mb-4">Backend Framework</p>
+                    <ul class="text-sm space-y-2">
+                        <li>• PHP 8.2+ Runtime</li>
+                        <li>• Eloquent ORM</li>
+                        <li>• Artisan CLI</li>
+                        <li>• Built-in Authentication</li>
+                        <li>• API Resources</li>
+                        <li>• Queue Management</li>
+                    </ul>
+                </div>
+                <div class="bg-gradient-to-br from-green-500 to-emerald-500 text-white p-8 rounded-lg">
+                    <div class="text-4xl mb-4">⚡</div>
+                    <h3 class="text-2xl font-bold mb-4">Vue.js 3.x</h3>
+                    <p class="text-lg mb-4">Frontend Framework</p>
+                    <ul class="text-sm space-y-2">
+                        <li>• Composition API</li>
+                        <li>• Pinia State Management</li>
+                        <li>• Vue Router 4</li>
+                        <li>• Vite Build Tool</li>
+                        <li>• Nuxt.js 3 for SSR/PWA</li>
+                        <li>• Progressive Web Apps</li>
+                    </ul>
+                </div>
+                <div class="bg-gradient-to-br from-blue-500 to-cyan-500 text-white p-8 rounded-lg">
+                    <div class="text-4xl mb-4">🗄️</div>
+                    <h3 class="text-2xl font-bold mb-4">MySQL 8.0+</h3>
+                    <p class="text-lg mb-4">Database System</p>
+                    <ul class="text-sm space-y-2">
+                        <li>• ACID Compliance</li>
+                        <li>• JSON Data Types</li>
+                        <li>• Full-Text Search</li>
+                        <li>• Replication Support</li>
+                        <li>• Performance Schema</li>
+                        <li>• Security Features</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Architecture Diagram -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">System Architecture</h2>
+                <p class="text-gray-600">Layered architecture ensuring scalability, security, and maintainability</p>
+            </div>
+            <div class="bg-white p-8 rounded-lg shadow-lg">
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                    <!-- Frontend Layer -->
+                    <div class="text-center">
+                        <div class="bg-green-100 p-6 rounded-lg mb-4">
+                            <div class="text-3xl mb-2">🖥️</div>
+                            <h3 class="text-lg font-bold text-green-800">Frontend Layer</h3>
+                        </div>
+                        <ul class="text-sm text-gray-600 space-y-1">
+                            <li>Vue.js 3 Applications</li>
+                            <li>Progressive Web Apps</li>
+                            <li>Responsive Design</li>
+                            <li>Real-time Updates</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- API Layer -->
+                    <div class="text-center">
+                        <div class="bg-orange-100 p-6 rounded-lg mb-4">
+                            <div class="text-3xl mb-2">🔗</div>
+                            <h3 class="text-lg font-bold text-orange-800">API Layer</h3>
+                        </div>
+                        <ul class="text-sm text-gray-600 space-y-1">
+                            <li>Laravel REST APIs</li>
+                            <li>Authentication & Authorization</li>
+                            <li>Rate Limiting</li>
+                            <li>API Versioning</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- Data Layer -->
+                    <div class="text-center">
+                        <div class="bg-blue-100 p-6 rounded-lg mb-4">
+                            <div class="text-3xl mb-2">💾</div>
+                            <h3 class="text-lg font-bold text-blue-800">Data Layer</h3>
+                        </div>
+                        <ul class="text-sm text-gray-600 space-y-1">
+                            <li>MySQL Database</li>
+                            <li>Redis Caching</li>
+                            <li>File Storage</li>
+                            <li>Backup & Recovery</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Supporting Technologies -->
+    <section class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Supporting Technologies</h2>
+                <p class="text-gray-600">Additional tools and services for enhanced functionality</p>
+            </div>
+            <div class="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
+                <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-red-500">
+                    <div class="text-2xl mb-3">🔍</div>
+                    <h3 class="text-lg font-bold mb-2">Elasticsearch</h3>
+                    <p class="text-gray-600 text-sm">Advanced search capabilities for Knowledge Management System</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-yellow-500">
+                    <div class="text-2xl mb-3">⚡</div>
+                    <h3 class="text-lg font-bold mb-2">Redis</h3>
+                    <p class="text-gray-600 text-sm">Caching and session management for improved performance</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-blue-500">
+                    <div class="text-2xl mb-3">📦</div>
+                    <h3 class="text-lg font-bold mb-2">MinIO/S3</h3>
+                    <p class="text-gray-600 text-sm">Object storage for documents, images, and media files</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-green-500">
+                    <div class="text-2xl mb-3">🐳</div>
+                    <h3 class="text-lg font-bold mb-2">Docker</h3>
+                    <p class="text-gray-600 text-sm">Containerization for consistent deployment across environments</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-purple-500">
+                    <div class="text-2xl mb-3">📡</div>
+                    <h3 class="text-lg font-bold mb-2">Laravel Broadcasting</h3>
+                    <p class="text-gray-600 text-sm">Real-time communication and notifications</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-indigo-500">
+                    <div class="text-2xl mb-3">🔄</div>
+                    <h3 class="text-lg font-bold mb-2">Laravel Queue</h3>
+                    <p class="text-gray-600 text-sm">Background job processing for heavy operations</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-pink-500">
+                    <div class="text-2xl mb-3">🌐</div>
+                    <h3 class="text-lg font-bold mb-2">Nginx</h3>
+                    <p class="text-gray-600 text-sm">High-performance web server and reverse proxy</p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-md border-l-4 border-gray-500">
+                    <div class="text-2xl mb-3">☁️</div>
+                    <h3 class="text-lg font-bold mb-2">Government Cloud</h3>
+                    <p class="text-gray-600 text-sm">Secure hosting on Pakistan's government infrastructure</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Security Features -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Security & Compliance</h2>
+                <p class="text-gray-600">Enterprise-grade security measures ensuring data protection and compliance</p>
+            </div>
+            <div class="grid md:grid-cols-2 gap-8">
+                <div class="bg-white p-8 rounded-lg shadow-md">
+                    <h3 class="text-xl font-bold mb-4 text-pakistan-green">Authentication & Authorization</h3>
+                    <ul class="space-y-3 text-gray-600">
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>OpenID Connect integration</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>Multi-Factor Authentication (MFA)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>Role-Based Access Control (RBAC)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>Attribute-Based Access Control (ABAC)</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>Session management and timeout</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="bg-white p-8 rounded-lg shadow-md">
+                    <h3 class="text-xl font-bold mb-4 text-pakistan-green">Data Protection</h3>
+                    <ul class="space-y-3 text-gray-600">
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>AES-256 encryption at rest</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>TLS 1.3 encryption in transit</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>Secure key management</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>Data backup and recovery</span>
+                        </li>
+                        <li class="flex items-start">
+                            <span class="text-green-500 mr-2">✓</span>
+                            <span>Audit logging and monitoring</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Performance & Scalability -->
+    <section class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Performance & Scalability</h2>
+                <p class="text-gray-600">Optimized for high performance and future growth</p>
+            </div>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="text-center p-6 bg-blue-50 rounded-lg">
+                    <div class="text-4xl mb-4">⚡</div>
+                    <h3 class="text-xl font-bold mb-2 text-blue-600">High Performance</h3>
+                    <ul class="text-gray-600 text-sm space-y-1">
+                        <li>• Redis caching layer</li>
+                        <li>• Database query optimization</li>
+                        <li>• CDN integration</li>
+                        <li>• Lazy loading</li>
+                    </ul>
+                </div>
+                <div class="text-center p-6 bg-green-50 rounded-lg">
+                    <div class="text-4xl mb-4">📈</div>
+                    <h3 class="text-xl font-bold mb-2 text-green-600">Scalable Architecture</h3>
+                    <ul class="text-gray-600 text-sm space-y-1">
+                        <li>• Microservices design</li>
+                        <li>• Horizontal scaling</li>
+                        <li>• Load balancing</li>
+                        <li>• Auto-scaling groups</li>
+                    </ul>
+                </div>
+                <div class="text-center p-6 bg-purple-50 rounded-lg">
+                    <div class="text-4xl mb-4">🔄</div>
+                    <h3 class="text-xl font-bold mb-2 text-purple-600">Zero Downtime</h3>
+                    <ul class="text-gray-600 text-sm space-y-1">
+                        <li>• Blue-green deployment</li>
+                        <li>• Rolling updates</li>
+                        <li>• Health checks</li>
+                        <li>• 99.9% uptime SLA</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Integration Capabilities -->
+    <section class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900 mb-4">Integration Capabilities</h2>
+                <p class="text-gray-600">Seamless integration with existing and future systems</p>
+            </div>
+            <div class="bg-white p-8 rounded-lg shadow-lg">
+                <div class="grid md:grid-cols-2 gap-8">
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 text-pakistan-green">API Integration</h3>
+                        <ul class="space-y-2 text-gray-600">
+                            <li>• RESTful API design</li>
+                            <li>• GraphQL support</li>
+                            <li>• Webhook notifications</li>
+                            <li>• Third-party API integration</li>
+                            <li>• API versioning strategy</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3 class="text-xl font-bold mb-4 text-pakistan-green">Data Integration</h3>
+                        <ul class="space-y-2 text-gray-600">
+                            <li>• ETL processes</li>
+                            <li>• Real-time data sync</li>
+                            <li>• Data validation</li>
+                            <li>• Import/Export tools</li>
+                            <li>• Legacy system migration</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call to Action -->
+    <section class="py-16 bg-pakistan-green text-white">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <h2 class="text-3xl font-bold mb-4">Ready to See Our Modules?</h2>
+            <p class="text-xl mb-8 max-w-2xl mx-auto">
+                Explore how our technical architecture powers each of the six integrated modules.
+            </p>
+            <a href="modules.html" class="bg-white text-pakistan-green px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition inline-block">
+                View Module Details →
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid md:grid-cols-3 gap-8">
+                <div>
+                    <h3 class="text-xl font-bold mb-4">SOFT PYRAMID</h3>
+                    <p class="text-gray-400">Pakistan's leading software development company specializing in government digital transformation.</p>
+                </div>
+                <div>
+                    <h3 class="text-xl font-bold mb-4">Quick Links</h3>
+                    <div class="space-y-2 text-gray-400">
+                        <a href="index.html" class="block hover:text-white transition">Home</a>
+                        <a href="company.html" class="block hover:text-white transition">Company Profile</a>
+                        <a href="financial.html" class="block hover:text-white transition">Financial Proposal</a>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-xl font-bold mb-4">Proposal Details</h3>
+                    <div class="text-gray-400">
+                        <p>RFP: MNFSR-PPDU-2025-001</p>
+                        <p>Date: December 2024</p>
+                        <p>Version: 1.0</p>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+                <p>&copy; 2024 SOFT PYRAMID. All rights reserved. | MNFSR Digital Transformation Proposal</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
